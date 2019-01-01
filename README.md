@@ -4,5 +4,5 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 ## Day 1 - P5JS & dat.GUI Code Template 
 A template which has all the basics of P5JS and dat.GUI set up for you, so you can start coding straight away. Comments have been added for beginners.
 
-<p data-height="265" data-theme-id="0" data-slug-hash="maqvax" data-default-tab="js,result" data-user="jhancock532" data-pen-title="P5JS & dat.GUI Template (Beginner)" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/maqvax/">P5JS & dat.GUI Template (Beginner)</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="500" data-theme-id="0" data-slug-hash="maqvax" data-default-tab="js,result" data-user="jhancock532" data-pen-title="P5JS & dat.GUI Template (Beginner)" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/maqvax/">P5JS & dat.GUI Template (Beginner)</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
