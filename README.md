@@ -1,6 +1,8 @@
 # Hello world
 This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
+
 *What is my definition of an everyday?*
+
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
 ## Day 1 - P5JS & dat.GUI Code Template 
