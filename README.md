@@ -1,5 +1,5 @@
-# Everydays
-[Inspired by Beeple.](https://vimeo.com/125524216)
+# Hello world
+This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
 
 ## Day 1 - P5JS & dat.GUI Code Template 
 A template which has all the basics of P5JS and dat.GUI set up for you, so you can start coding straight away. Comments have been added for beginners.
