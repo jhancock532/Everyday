@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Day 1 - P5JS & dat.GUI Code Template 
+A template which has all the basics of P5JS and dat.GUI set up for you, so you can start coding straight away. Comments have been added for beginners.
 
-You can use the [editor on GitHub](https://github.com/jhancock532/Everyday/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhancock532/Everyday/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p data-height="265" data-theme-id="0" data-slug-hash="maqvax" data-default-tab="js,result" data-user="jhancock532" data-pen-title="P5JS & dat.GUI Template (Beginner)" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/maqvax/">P5JS & dat.GUI Template (Beginner)</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
