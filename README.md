@@ -5,6 +5,12 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
+## Day 3 - Dynamic Large Square Finder
+Finds the largest empty white square in a picture with black pixels. Click "Colour Sizes" to see a visualization of how the algorithm stores data as it runs.
+
+<p data-height="500" data-theme-id="0" data-slug-hash="MZQKMV" data-default-tab="result" data-user="jhancock532" data-pen-title="Dynamic Programming - Largest Empty Square" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/MZQKMV/">Dynamic Programming - Largest Empty Square</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 2 - Abstract Website Generator
 Creates a cat-themed, abstract website, built on Bootstrap and jQuery. You can tweak three parameters in the options to get a different result, or simply regenerate a new site with the Create Website button.
 
