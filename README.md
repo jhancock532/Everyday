@@ -5,6 +5,15 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
+## Day 4 - Bristol SU Sex & Relationships Survey Results (Interative!)
+
+An interactive survey results website, built with Bootstrap, jQuery and chart.js. This format of interactive survey, where your answer is highlighted in contrast to others, highlights self comparison, which I don't really like. The instant feedback of results feels like taking an online test, where you could have picked the wrong answer. And it has too much text.
+
+Adding precise numbers of people who are like you, both in the survey and extrapolated out into the general student population, has a slightly more positive effect - you can clearly see you aren't the only one who has picked an option, so you aren't that different to others. The animations and bootstrap styles are alright.
+
+<p data-height="500" data-theme-id="0" data-slug-hash="roJbBj" data-default-tab="result" data-user="jhancock532" data-pen-title="Bristol SU Sex & Relationships Survey Results" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/roJbBj/">Bristol SU Sex & Relationships Survey Results</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 3 - Dynamic Large Square Finder
 Finds the largest empty white square in a picture with black pixels. Click "Colour Sizes" to see a visualization of how the algorithm stores data as it runs.
 
