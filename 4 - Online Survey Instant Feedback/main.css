@@ -1,0 +1,44 @@
+.btn {
+  margin: 0.2em;
+}
+
+.questionTitle {
+  padding-bottom: 0.6em;
+}
+
+.questionNumber {
+  font-size: 1.1em;
+  letter-spacing: 0.1em;
+  padding-bottom: 0.3em;
+  margin-top: 1.5em;
+}
+
+.questionOptions {
+  margin-bottom: 2em;
+}
+
+.questionResultsTitle {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.questionResultsSubtitle {
+  font-size: 1.1em;
+}
+
+.questionResultDescription{
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+.results {
+  display: none;
+}
+
+.fadeIn {
+  opacity: 0;
+}
+
+a:hover {
+  cursor: pointer;
+}
