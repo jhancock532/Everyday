@@ -1,0 +1,114 @@
+
+<div class="container">
+  <!-- JUMBTRON -->
+  <div class="jumbotron bg-dark text-light" style="margin-top: 2em;">
+    <h1 class="display-2 ">Bristol SU Sex & Relationships Survey Results</h1>
+    <p class="lead">
+      This site takes data from the University of Bristol's Student Union report, found on the SU website <a class="text-info" href="https://www.bristolsu.org.uk/student-voice/our-research/sex-and-relationships-survey">here</a>. How you interact with this website is totally anonymous, no data from your interactions is stored. This demo site currently contains three questions from the survey, and will be expanded with further statistics as time goes on.
+    </p>
+    <div class="text-center">
+      <button onclick="scrollToFirstQuestion()" type="button" class="btn btn-dark btn-outline-light btn-lg">Click here to begin...</button>
+    </div>
+  </div>
+  <hr>
+  <!-- QUESTION ONE -->
+  <div class="container text-center fadeIn" id="questionOne">
+    <h5 class="lead questionNumber text-secondary">- QUESTION ONE -<h5>
+    <h2 class="questionTitle"><b>How often do you have sex?</b></h2>
+    <div class="row questionOptions">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <button onclick="questionOne(0);" type="button" class="btn btn-outline-dark">Daily</button>
+        <button onclick="questionOne(1);" type="button" class="btn btn-outline-dark">Several times a week</button>
+        <button onclick="questionOne(2);" type="button" class="btn btn-outline-dark">Once a week</button>
+        <button onclick="questionOne(3);" type="button" class="btn btn-outline-dark">Once a fortnight</button>
+        <button onclick="questionOne(4);" type="button" class="btn btn-outline-dark">Once a month</button>
+        <button onclick="questionOne(5);" type="button" class="btn btn-outline-dark">Every couple of months</button>
+        <button onclick="questionOne(6);" type="button" class="btn btn-outline-dark">A couple of times a year</button>
+        <button onclick="questionOne(7);" type="button" class="btn btn-outline-dark">Never</button>
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>
+  <div class="container text-center results" id="questionOneResults">
+    <h1 class="questionResultsTitle">How often do you have sex?</h1>
+    <h5 class="questionResultsSubtitle lead text-secondary">This is how 568 Bristol students responded.</h5>
+    <canvas id="questionOneResultsChart" height="100"></canvas>
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <p id="questionOneResultsDescription" class="questionResultDescription">Loading...</p>
+      </div>
+      <div class="col"></div>
+    </div>
+    <a onclick="scrollToSecondQuestion()" class="text-center text-secondary small">Continue to next question.</a>
+  </div>
+  <hr>
+  <!-- QUESTION TWO -->
+  <div class="container text-center fadeIn" id="questionTwo">
+    <h5 class="lead questionNumber text-secondary">- QUESTION TWO -<h5>
+    <h2 class="questionTitle"><b>How often do you get tested for STIs/STDs?</b></h2>
+    <div class="row questionOptions">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <button onclick="questionTwo(0);" type="button" class="btn btn-outline-dark">After each new sexual partner</button>
+        <button onclick="questionTwo(1);" type="button" class="btn btn-outline-dark">Only if I have symptoms of an STI/STD</button>
+        <button onclick="questionTwo(2);" type="button" class="btn btn-outline-dark">Only if I feel there is a risk</button>
+        <button onclick="questionTwo(3);" type="button" class="btn btn-outline-dark">Once a month</button>
+        <button onclick="questionTwo(4);" type="button" class="btn btn-outline-dark">Once every couple of months</button>
+        <button onclick="questionTwo(5);" type="button" class="btn btn-outline-dark">Twice a year</button>
+        <button onclick="questionTwo(6);" type="button" class="btn btn-outline-dark">Once a year</button>
+        <button onclick="questionTwo(7);" type="button" class="btn btn-outline-dark">Less regularly than once a year</button>
+        <button onclick="questionTwo(8);" type="button" class="btn btn-outline-dark">I've never been tested</button>
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>
+  <div class="container text-center results" id="questionTwoResults">
+    <h1 class="questionResultsTitle">How often do you get tested for STIs/STDs?</h1>
+    <h5 class="questionResultsSubtitle lead text-secondary">This is how 552 Bristol students responded.</h5>
+    <canvas id="questionTwoResultsChart" height="100"></canvas>
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <p id="questionTwoResultsDescription" class="questionResultDescription">Loading...</p>
+      </div>
+      <div class="col"></div>
+    </div>
+    <a onclick="scrollToThirdQuestion()" class="text-center text-secondary small">Continue to next question.</a>
+  </div>
+  <hr>
+  <!-- QUESTION THREE -->
+  <div class="container text-center fadeIn" id="questionThree">
+    <h5 class="lead questionNumber text-secondary">- QUESTION THREE -<h5>
+    <h2 class="questionTitle"><b>What is your current relationship status?</b></h2>
+    <div class="row questionOptions">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <button onclick="questionThree(0);" type="button" class="btn btn-outline-dark">A monogamous relationship with one person</button>
+        <button onclick="questionThree(1);" type="button" class="btn btn-outline-dark">Non-monogamous relationship with a primary partner</button>
+        <button onclick="questionThree(2);" type="button" class="btn btn-outline-dark">Non-monogamous relationship with multiple partners</button>
+        <button onclick="questionThree(3);" type="button" class="btn btn-outline-dark">Casually dating one person</button>
+        <button onclick="questionThree(4);" type="button" class="btn btn-outline-dark">Casually dating more than one person</button>
+        <button onclick="questionThree(5);" type="button" class="btn btn-outline-dark">Friends with benefits</button>
+        <button onclick="questionThree(6);" type="button" class="btn btn-outline-dark">Not currently in a relationship</button>
+        <button onclick="questionThree(7);" type="button" class="btn btn-outline-dark">Other</button>
+      </div>
+      <div class="col"></div>
+    </div>
+  </div>
+  <div class="container text-center results" id="questionThreeResults">
+    <h1 class="questionResultsTitle">What is your current relationship status?</h1>
+    <h5 class="questionResultsSubtitle lead text-secondary">This is how 631 Bristol students responded.</h5>
+    <canvas id="questionThreeResultsChart" height="100"></canvas>
+    <div class="row">
+      <div class="col"></div>
+      <div class="col-md-8 col-12 align-self-center">
+        <p id="questionThreeResultsDescription" class="questionResultDescription">Loading...</p>
+      </div>
+      <div class="col"></div>
+    </div>
+    <a href="https://codepen.io/jhancock532" class="text-center text-secondary small">The end. Thanks for demoing this website. For more experiments, check out my CodePen profile.</a>
+  </div>
+  <hr>
+</div>
