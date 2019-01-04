@@ -5,7 +5,7 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
-## Day 4 - Bristol SU Sex & Relationships Survey Results (Interative!)
+## Day 4 - Bristol SU Sex & Relationships Survey Results (Interactive!)
 
 An interactive survey results website, built with Bootstrap, jQuery and chart.js. This format of interactive survey, where your answer is highlighted in contrast to others, highlights self comparison, which I don't really like. The instant feedback of results feels like taking an online test, where you could have picked the wrong answer. And it has too much text.
 
