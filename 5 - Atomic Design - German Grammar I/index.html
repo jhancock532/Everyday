@@ -1,0 +1,468 @@
+<!-- 
+### ATOMIC DESIGN BREAKDOWN ###
+-- Most atomic elements are styled by Bootstrap - these include inputs, table cells, text items, and other essential HTML elements.
+-- Molecules include table rows and Bootstrap layout systems.
+-- Organisms that I've built include...
+  -- A simple header, table and description.
+  -- Header, two tables, description.
+  -- Two tables side by side.
+  -- Header, input table, submit button.
+-- Templates and pages haven't been considered in great detail, as I complete the basics these will become more prominent.
+
+This site's development is based off reading http://atomicdesign.bradfrost.com/chapter-2/ - it's going to be project over several days as I learn more about how atomic design works.
+-->
+
+<div class="container">
+  
+  <!-- Indefinite Article -->
+  <div class="container chapter">
+    <div class="row align-items-center">
+      <div class="col"></div>
+      <div class="col col-md-8 align-self-center">
+        <h2 class="text-center">Definite Article : "The"</h2>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"></th>
+              <th scope="col">Masculine</th>
+              <th scope="col">Feminine</th>
+              <th scope="col">Neuter</th>
+              <th scope="col">Plural</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nominative</th>
+              <td>der</td>
+              <td>die</td>
+              <td>das</td>
+              <td>die</td>
+            </tr>
+            <tr>
+              <th scope="row">Accusative</th>
+              <td>den</td>
+              <td>die</td>
+              <td>das</td>
+              <td>die</td>
+            </tr>
+            <tr>
+              <th scope="row">Dative</th>
+              <td>dem</td>
+              <td>der</td>
+              <td>dem</td>
+              <td>den <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Genitive</th>
+              <td>des <sup>+es</sup></td>
+              <td>der</td>
+              <td>des <sup>+es</sup></td>
+              <td>der</td>
+            </tr>
+          </tbody>
+</table>
+        <p class="">If you learn this table, you'll be able to use it to learn all the others.</p>
+      </div>
+      <div class="col"></div>
+    </div>
+  <div>
+  
+  <!-- Definite Article & Kein -->
+  <div class="container chapter">
+    <div class="row align-items-center">
+      <div class="col"></div>
+      <div class="col col-md-8 align-self-center">
+        <h2 class="text-center">Indefinite Article : "A"</h2>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"></th>
+              <th scope="col">Masculine</th>
+              <th scope="col">Feminine</th>
+              <th scope="col">Neuter</th>
+              <th scope="col">Plural</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nominative</th>
+              <td>ein</td>
+              <td>eine</td>
+              <td>ein</td>
+              <td>keine</td>
+            </tr>
+            <tr>
+              <th scope="row">Accusative</th>
+              <td>einen</td>
+              <td>eine</td>
+              <td>ein</td>
+              <td>keine</td>
+            </tr>
+            <tr>
+              <th scope="row">Dative</th>
+              <td>einen</td>
+              <td>einer</td>
+              <td>einem</td>
+              <td>keinen <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Genitive</th>
+              <td>eines <sup>+es</sup></td>
+              <td>einer</td>
+              <td>eines <sup>+es</sup></td>
+              <td>keiner</td>
+            </tr>
+          </tbody>
+</table>
+        <p class="">This table applies to ein, kein and all of the possessive pronouns, as listed below.</p>
+      </div>
+      <div class="col"></div>
+    </div>
+  <div>
+    
+  <!-- Possessive Pronouns & Generalisation -->
+  <div class="container chapter">
+    <div class="row">
+      <div class="col"></div>
+      <div class="col col-md-8 align-self-center">
+        <h2 class="text-center">Possessive Pronouns</h2>
+        <div class="row">
+          <div class="col"></div>
+          <div class="col col-md-6">
+            <table class="table table-bordered text-center">
+            <thead>
+              <tr>
+                <th scope="col">English</th>
+                <th scope="col">Deutsch</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>my</td>
+                <td>mein</td>
+              </tr>
+              <tr>
+                <td>yours <sup>sing. informal</sup></td>
+                <td>dein</td>
+              </tr>
+              <tr>
+                <td>his</td>
+                <td>sein</td>
+              </tr>
+              <tr>
+                <td>hers</td>
+                <td>ihr</td>
+              </tr>
+              <tr>
+                <td>its</td>
+                <td>sein</td>
+              </tr>
+              <tr>
+                <td>ours</td>
+                <td>unser</td>
+              </tr>
+              <tr>
+                <td>yours <sup>plur. informal</sup></td>
+                <td>euer</td>
+              </tr>
+              <tr>
+                <td>theirs</td>
+                <td>ihr</td>
+              </tr>
+              <tr>
+                <td>yours <sup>sing. polite</td>
+                <td>Ihr</td>
+              </tr>
+            </tbody>
+          </table>
+          </div>
+          <div class="col"></div>
+        </div>
+        
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Stem Endings</i></th>
+              <th scope="col">Masculine</th>
+              <th scope="col">Feminine</th>
+              <th scope="col">Neuter</th>
+              <th scope="col">Plural</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nominative</th>
+              <td>-</td>
+              <td>-e</td>
+              <td>-</td>
+              <td>-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Accusative</th>
+              <td>-en</td>
+              <td>-e</td>
+              <td>-</td>
+              <td>-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Dative</th>
+              <td>-em</td>
+              <td>-er</td>
+              <td>-em</td>
+              <td>-en <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Genitive</th>
+              <td>-es <sup>+es</sup></td>
+              <td>-er</td>
+              <td>-es <sup>+es</sup></td>
+              <td>-er</td>
+            </tr>
+          </tbody>
+</table>
+        <p class="">I've got rid of the stem of word, you'll notice a clear pattern forming that is reminiscent of the definite article table.</p>
+      </div>
+      <div class="col"></div>
+    </div>
+  <div>
+    
+  <!-- Direct Comparision -->
+  <div class="container chapter">
+    <div class="row">
+      <div class="col-6">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Endings</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td>-</td>
+              <td>-e</td>
+              <td>-</td>
+              <td>-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td>-en</td>
+              <td>-e</td>
+              <td>-</td>
+              <td>-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td>-em</td>
+              <td>-er</td>
+              <td>-em</td>
+              <td>-en <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td>-es <sup>+es</sup></td>
+              <td>-er</td>
+              <td>-es <sup>+es</sup></td>
+              <td>-er</td>
+            </tr>
+          </tbody>
+</table>
+      </div>
+      <div class="col-6">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Definite</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td>der</td>
+              <td>di<mark>e</mark></td>
+              <td>das</td>
+              <td>di<mark>e</mark></td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td>de<mark>n</mark></td>
+              <td>di<mark>e</mark></td>
+              <td>das</td>
+              <td>di<mark>e</mark></td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td>de<mark>m</mark></td>
+              <td>de<mark>r</mark></td>
+              <td>de<mark>m</mark></td>
+              <td>de<mark>n</mark> <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td>de<mark>s</mark> <sup>+es</sup></td>
+              <td>de<mark>r</mark></td>
+              <td>de<mark>s</mark> <sup>+es</sup></td>
+              <td>de<mark>r</mark></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+    
+  <!-- Direct Comparision V2 -->
+  <div class="container chapter">
+    <div class="row">
+      <div class="col-6">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Endings</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td>-</td>
+              <td class="table-success">-e</td>
+              <td>-</td>
+              <td class="table-success">-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td class="table-warning">-en</td>
+              <td class="table-success">-e</td>
+              <td>-</td>
+              <td class="table-success">-e</td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td class="table-warning">-em</td>
+              <td class="table-warning">-er</td>
+              <td class="table-warning">-em</td>
+              <td class="table-warning">-en <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td class="table-warning">-es <sup>+es</sup></td>
+              <td class="table-warning">-er</td>
+              <td class="table-warning">-es <sup>+es</sup></td>
+              <td class="table-warning">-er</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-6">
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Definite</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td>der</td>
+              <td class="table-success">die</td>
+              <td>das</td>
+              <td class="table-success">die</td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td class="table-warning">den</td>
+              <td class="table-success">die</td>
+              <td>das</td>
+              <td class="table-success">die</td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td class="table-warning">dem</td>
+              <td class="table-warning">der</td>
+              <td class="table-warning">dem</td>
+              <td class="table-warning">den <sup>+n</sup></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td class="table-warning">des <sup>+es</sup></td>
+              <td class="table-warning">der</td>
+              <td class="table-warning">des<sup>+es</sup></td>
+              <td class="table-warning">der</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+   
+  <!-- Testing Memorisation of Tables -->
+  <div class="container chapter">
+    <div class="row align-items-center">
+      <div class="col-2"></div>
+      <div class="col-8 col-md-8 align-self-center">
+        <h2 class="text-center">Example Test Input</h2>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th scope="col"><i>Definite</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td><input id="t1-00" class="form-control" type="text"></td>
+              <td><input id="t1-01" class="form-control" type="text"></td>
+              <td><input id="t1-02" class="form-control" type="text"></td>
+              <td><input id="t1-03" class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td><input id="t1-10" class="form-control" type="text"></td>
+              <td><input id="t1-11" class="form-control" type="text"></td>
+              <td><input id="t1-12" class="form-control" type="text"></td>
+              <td><input id="t1-13" class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td><input id="t1-20" class="form-control" type="text"></td>
+              <td><input id="t1-21" class="form-control" type="text"></td>
+              <td><input id="t1-22" class="form-control" type="text"></td>
+              <td><input id="t1-23" class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td><input id="t1-30" class="form-control" type="text"></td>
+              <td><input id="t1-31" class="form-control" type="text"></td>
+              <td><input id="t1-32" class="form-control" type="text"></td>
+              <td><input id="t1-33" class="form-control" type="text"></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div class="col-2"></div>
+    </div>
+  </div>
+  
+</div>
+    
+    
+<!-- Note that giving td colspan="2" increases the cols the cell takes up. -->
