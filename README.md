@@ -5,6 +5,13 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
+## Day 5 - Atomic Design & German Grammar Tables
+
+I'm learning the basics of atomic design and polishing up on my German grammar at the same time. I'm exploring how I can put the design principles behind atomic design into practice - I haven't read chapter three of the online e-book yet, so I don't have any preconceived notions about best practice. Reading the next two chapters today and resuming development tomorrow.
+
+<p data-height="500" data-theme-id="0" data-slug-hash="bOvjox" data-default-tab="html" data-user="jhancock532" data-pen-title="Atomic Design & German Grammar Tables" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/bOvjox/">Atomic Design & German Grammar Tables</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 4 - Bristol SU Sex & Relationships Survey Results (Interactive!)
 
 An interactive survey results website, built with Bootstrap, jQuery and chart.js. This format of interactive survey, where your answer is highlighted in contrast to others, highlights self comparison, which I don't really like. The instant feedback of results feels like taking an online test, where you could have picked the wrong answer. And it has too much text.
