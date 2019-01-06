@@ -5,7 +5,14 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
-## Day 5 - Atomic Design & German Grammar Tables
+## Day 6 - Atomic Design & German Grammar Tables II
+The adventures with German grammar continue: you can now test yourself to see how much you've learned. 
+From an atomic design perspective, I've developed a handful of organisms, but I really need to use Jekyll or similar to stop copying and pasting them. Perhaps a good step forward is to start messing with Jekyll again? I guess this is a possibility when I finish this month and move outside of CodePen. I'll keep exploring, reading and trying new things in the meantime.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="bOvOxd" data-default-tab="result" data-user="jhancock532" data-pen-title="Atomic Design with German Grammar II" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/bOvOxd/">Atomic Design with German Grammar II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+## Day 5 - Atomic Design & German Grammar Tables I
 
 I'm learning the basics of atomic design and polishing up on my German grammar at the same time. I'm exploring how I can put the design principles behind atomic design into practice - I haven't read chapter three of the online e-book yet, so I don't have any preconceived notions about best practice. Reading the next two chapters today and resuming development tomorrow.
 
