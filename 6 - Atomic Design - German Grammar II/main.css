@@ -1,0 +1,13 @@
+.section {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  display: none;
+}
+
+.section .title {
+  padding-bottom: 0.5em;
+}
+
+a:hover {
+  cursor: pointer;
+}
