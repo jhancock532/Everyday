@@ -1,0 +1,368 @@
+<!-- In Bootstrap, the entire HTML code is often held in a container. I use it here to give a natural border on the left and right of the screen.-->
+
+<div class="container">
+  <!-- A plain navbar with the sites sections. -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">Grammar Tables</a>
+    <!-- This button is only seen when the screen width can't show all the navbar items.-->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <!-- The iconic hamburger menu bar icon. -->
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- The contents of the navbar. This section is collapsable/showable, depending on screenwidth.-->
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <!-- The links in the nav. I use jQuery to detect when they have been clicked, see js code below. -->
+        <a class="nav-item nav-link" id="definiteArticleNavButton">Definite Article</a>
+        <a class="nav-item nav-link" id="possessivePronounsNavButton">Possessive Pronouns</a>
+        <a class="nav-item nav-link" id="creditsNavButton">Credits</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Learning the Definite Article -->
+  <div class="container section" id="learnDefiniteArticle">
+    <!-- Empty col divs are used here to align table centrally without taking up entire screen width. -->
+    <div class="row align-items-center">
+      <div class="col-0 col-md-2"></div>
+      
+      <div class="col-12 col-md-8 align-self-center">
+        <h2 class="text-center title">Definite Article "The"</h2>
+        <!-- Table containing highlighted cases of the definite article.-->
+        <table class="table table-bordered" id="definiteArticleTable">
+          <thead>
+            <tr>
+              <th scope="col"><i>Definite</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td>der</td>
+              <td class="table-danger">das</td>
+              <td class="table-info">die</td>
+              <td class="table-info">die</td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td>den</td>
+              <td class="table-danger">das</td>
+              <td class="table-info">die</td>
+              <td class="table-info">die</td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td class="table-success">dem</td>
+              <td class="table-success">dem</td>
+              <td class="table-warning">der</td>
+              <td>den +n</td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td class="table-primary">des +es</td>
+              <td class="table-primary">des +es</td>
+              <td class="table-warning">der</td>
+              <td>der</td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <!-- Call to action beneath the table. -->
+        <div class="container text-center">
+          <!-- text-center in the container div class also centers the button. -->
+          <p class="lead" style="margin-top: 1em;">When you feel like you've memorized this table, click the button below to test your knowledge.</p>
+          <button type="button" class="btn btn-success" id="definiteArticleGoToTestButton">Continue to test</button>
+        </div>
+      </div>
+      
+      <div class="col-0 col-md-2"></div>
+    </div>
+  </div>
+  
+  <!-- Testing Memorisation of Definite Article -->
+  <div class="container section" id="definiteArticleTest">
+    <div class="row align-items-center">
+      <!-- THe smallest configuration, col-x, is set to zero, so the width of the table fills as much mobile screen as possible. -->
+      <div class="col-0 col-md-2"></div>
+      
+      <div class="col-12 col-md-8 align-self-center">
+        <!-- Title -->
+        <h2 class="text-center title">Definite Article Test</h2>
+        <!-- Table with all the input boxes. -->
+        <table class="table table-bordered" id="definiteArticleTestTable">
+          <thead>
+            <tr>
+              <th scope="col"><i>Definite</i></th>
+              <th scope="col">Masc.</th>
+              <th scope="col">Neut.</th>
+              <th scope="col">Fem.</th>
+              <th scope="col">Plur.</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nom.</th>
+              <td id="t1-00"><input class="form-control" type="text"></td>
+              <td id="t1-01"><input class="form-control" type="text"></td>
+              <td id="t1-02"><input class="form-control" type="text"></td>
+              <td id="t1-03"><input class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Acc.</th>
+              <td id="t1-10"><input class="form-control" type="text"></td>
+              <td id="t1-11"><input class="form-control" type="text"></td>
+              <td id="t1-12"><input class="form-control" type="text"></td>
+              <td id="t1-13"><input class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Dat.</th>
+              <td id="t1-20"><input class="form-control" type="text"></td>
+              <td id="t1-21"><input class="form-control" type="text"></td>
+              <td id="t1-22"><input class="form-control" type="text"></td>
+              <td id="t1-23"><input class="form-control" type="text"></td>
+            </tr>
+            <tr>
+              <th scope="row">Gen.</th>
+              <td id="t1-30"><input class="form-control" type="text"></td>
+              <td id="t1-31"><input class="form-control" type="text"></td>
+              <td id="t1-32"><input class="form-control" type="text"></td>
+              <td id="t1-33"><input class="form-control" type="text"></td>
+            </tr>
+          </tbody>
+        </table>
+        <!-- Description text beneath the table. Parts of this text are only shown after jQuery triggers. -->
+        <div class="container text-center">
+          <button type="button" class="btn btn-success" id="definiteArticleTestSubmitButton">Click to submit!</button>
+          <button type="button" class="btn btn-dark" id="definiteArticleTestResetButton">Reset the table</button>
+          <!-- This two p elements are hidden until test is submitted. -->
+          <p class="lead" id="displayDefiniteArticleTestScore" style="margin-top: 1em;"></p>
+          <p id="displayDefiniteArticleTestImprovementTips"></p>
+          
+          <button type="button" class="btn btn-sm btn-outline-dark" id="definiteArticleBackToLearnButton">Go back to learning the table</button>
+          <button type="button" class="btn btn-sm btn-outline-success" id="definiteArticleGoToNextSectionButton">Continue to next section</button>
+        </div>
+      </div>
+      
+      <div class="col-0 col-md-2"></div>
+    </div>
+  </div>
+    
+  <!-- Learning Possessive Pronouns -->
+  <div class="container section" id="learnPossessivePronouns">
+    <!-- Empty col divs are used here to align table centrally without taking up entire screen width. -->
+    <!-- This section would be classified as an organism in Atomic Design web dev practice. -->
+    <div class="row align-items-center">
+      <div class="col-0 col-md-2"></div>
+      <div class="col-12 col-md-8 align-self-center">
+        <h2 class="text-center title">Possessive Pronouns</h2>
+        <!-- Possessive Pronoun Tables -->
+        <div class="row">
+          <div class="col-6">
+            <!-- The Singular Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <tr>
+                  <th colspan="2" class="text-center"><i>Singular</i></th>
+                </tr>
+                <tr>
+                  <th>English</th>
+                  <th>Deutsch</th>
+                </tr>
+              </thead>
+              <tbody>
+
+                <tr>
+                  <td>my</td>
+                  <td class="table-success">mein</td>
+                </tr>
+                <tr>
+                  <td>yours <sup>informal</sup></td>
+                  <td class="table-success">dein</td>
+                </tr>
+                <tr>
+                  <td>his</td>
+                  <td class="table-success">sein</td>
+                </tr>
+                <tr>
+                  <td>hers</td>
+                  <td class="table-success">ihr</td>
+                </tr>
+                <tr>
+                  <td>its</td>
+                  <td class="table-success">sein</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="col-6">
+            <!-- The Plural Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <tr>
+                  <th colspan="2" class="text-center"><i>Plural</i></th>
+                </tr>
+                <tr>
+                  <th>English</th>
+                  <th>Deutsch</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>ours</td>
+                  <td class="table-danger">unser</td>
+                </tr>
+                <tr>
+                  <td>yours <sup>informal</sup></td>
+                  <td class="table-danger">euer</td>
+                </tr>
+                <tr>
+                  <td>theirs</td>
+                  <td class="table-danger">ihr</td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- Singular & Plural Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <th class="text-center" colspan="2"><i>Singular & Plural</i></th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>yours <sup>formal</sup></td>
+                  <td class="table-warning">Ihr <sup><mark>has capital letter</mark></sup></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- Call to action beneath the table. -->
+        <div class="container text-center">
+          <!-- text-center in the container div class also centers the button. -->
+          <p class="lead" style="margin-top: 1em;">When you feel like you've memorized this table, click the button below to test your knowledge.</p>
+          <button type="button" class="btn btn-success" id="possessivePronounsGoToTestButton">Continue to test</button>
+        </div>
+      </div>
+      <div class="col-0 col-md-2"></div>
+    </div>
+  </div>
+  
+  <!-- Testing Memorisation of Possessive Pronouns -->
+  <div class="container section" id="possessivePronounsTest">
+    <!-- Empty col divs are used here to align table centrally without taking up entire screen width. -->
+    <div class="row align-items-center">
+      <div class="col-0 col-md-2"></div>
+      <div class="col-12 col-md-8 align-self-center">
+        <h2 class="text-center title">Possessive Pronouns Test</h2>
+        <!-- Possessive Pronoun Input Tables -->
+        <div class="row">
+          <div class="col-6">
+            <!-- The Singular Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <tr>
+                  <th colspan="2" class="text-center"><i>Singular</i></th>
+                </tr>
+                <tr>
+                  <th>English</th>
+                  <th>Deutsch</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>my</td>
+                  <td id="t2-0" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>yours <sup>informal</sup></td>
+                  <td id="t2-1" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>his</td>
+                  <td id="t2-2" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>hers</td>
+                  <td id="t2-3" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>its</td>
+                  <td id="t2-4" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="col-6">
+            <!-- The Plural Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <tr>
+                  <th colspan="2" class="text-center"><i>Plural</i></th>
+                </tr>
+                <tr>
+                  <th>English</th>
+                  <th>Deutsch</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>ours</td>
+                  <td id="t2-5" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>yours <sup>informal</sup></td>
+                  <td id="t2-6" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+                <tr>
+                  <td>theirs</td>
+                  <td id="t2-7" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- Singular & Plural Possessive Pronouns -->
+            <table class="table table-border">
+              <thead>
+                <th class="text-center" colspan="2"><i>Singular & Plural</i></th>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>yours <sup>formal</sup></td>
+                  <td id="t2-8" class="t2Cell"><input class="form-control" type="text"></td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <!-- Description text beneath the table. Parts of this text are only shown after jQuery triggers. -->
+        <div class="container text-center">
+          <button type="button" class="btn btn-success" id="possessivePronounsTestSubmitButton">Click to submit!</button>
+          <button type="button" class="btn btn-dark" id="possessivePronounsTestResetButton">Reset the table</button>
+          <!-- This two p elements are hidden until test is submitted. -->
+          <p class="lead" id="displayPossessivePronounsTestScore" style="margin-top: 1em;"></p>
+          <p id="displayPossessivePronounsImprovementTips"></p>
+          
+          <button type="button" class="btn btn-sm btn-outline-dark" id="possessivePronounsBackToLearnButton">Go back to learning the table</button>
+          <button type="button" class="btn btn-sm btn-outline-success" id="possessivePronounsGoToNextSectionButton">View Credits</button>
+        </div>
+      </div>
+      <div class="col-0 col-md-2"></div>
+    </div>
+  </div>
+  
+  <!-- Credits -->
+  <div class="container section" id="credits">
+    <div class="row align-items-center">
+      <div class="col-0 col-md-2"></div>
+      <div class="col-12 col-md-8 align-self-center">
+        <img style="width: 30em;" src="https://res.cloudinary.com/dvxmjunfv/image/upload/v1546791526/Shoutout.png" class="rounded mx-auto d-block">
+        <h2 class="title">Credits</h2>
+        <p class="lead">This demo website was created by James. The awesome method of organising grammar tables in a logical way was Verbalästhet (aka <a target="_blank" href="https://twitter.com/Groteskerie">@Groteskerie on Twitter</a>).</p>
+      </div>
+      <div class="col-0 col-md-2"></div>
+    </div>
+  </div>
+
+</div>
