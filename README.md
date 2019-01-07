@@ -1,7 +1,7 @@
 # James Hancock
 Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients, as well as completing conventional computer science units.
 
-(Inspiration)[#inspiration-&-strategy] : (Week One Reflection)[#week-one-reflection]
+[Inspiration](#inspiration-&-strategy) : [Week One Reflection](week-one-reflection)
 
 # Inspiration & Strategy
 This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
