@@ -1,9 +1,9 @@
 # James Hancock
-Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients, as well as completing conventional computer science units.
+Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients. Work ranges from developing an app for a local startup to understanding the users of a makerspace.
 
-[Inspiration](#inspiration-&-strategy) : [Week One Reflection](week-one-reflection)
+[Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
-# Inspiration & Strategy
+# Inspiration and Strategy
 This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
 
 *What is my definition of an everyday?*
