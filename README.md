@@ -1,7 +1,7 @@
 # James Hancock
 Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients, as well as completing conventional computer science units.
 
-(Inspiration)[#Inspiration & Strategy] : (Reflection - Week One)[#Reflection - Week One]
+(Inspiration)[#inspiration-&-strategy] : (Week One Reflection)[#week-one-reflection]
 
 # Inspiration & Strategy
 This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
@@ -12,7 +12,7 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 *How will I improve my skills through this project?*
 
-# Reflection - Week One
+# Week One Reflection
  - **My code quality isn't beautiful, but I can make it better.** I know what good code looks like, but I'm not consistently writing to that standard, often due to being in a rush to get the project done / lack of effort. This isn't an acceptable excuse - it is much better to code slowly and create a small project to build on and reuse later, than do a one off large project that nobody cares about.
  - **I'm spending too much time on these projects.** Next week I'll limit myself to one hour only per day. If I can't do a quick project, then I won't be able to sustain doing projects when I'm busier. I'm being too ambitious at the moment.
  - **I should learn the theory behind how to write good comments.** I'm sure I've seen an internet article or two about this, time to read a few and practice better commentary. This can be my project for day 8.
