@@ -1,13 +1,30 @@
-# Hello world
+# James Hancock
+Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients, as well as completing conventional computer science units.
+
+(Inspiration)[#Inspiration & Strategy] : (Reflection - Week One)[#Reflection - Week One]
+
+# Inspiration & Strategy
 This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
 
 *What is my definition of an everyday?*
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
 
+*How will I improve my skills through this project?*
+
+# Reflection - Week One
+ - **My code quality isn't beautiful, but I can make it better.** I know what good code looks like, but I'm not consistently writing to that standard, often due to being in a rush to get the project done / lack of effort. This isn't an acceptable excuse - it is much better to code slowly and create a small project to build on and reuse later, than do a one off large project that nobody cares about.
+ - **I'm spending too much time on these projects.** Next week I'll limit myself to one hour only per day. If I can't do a quick project, then I won't be able to sustain doing projects when I'm busier. I'm being too ambitious at the moment.
+ - **I should learn the theory behind how to write good comments.** I'm sure I've seen an internet article or two about this, time to read a few and practice better commentary. This can be my project for day 8.
+ - **Twitter is better than YouTube, don't spend too long on it though.** Through converting from YouTube to Twitter I'm discovering tonnes of cool resources. I like being able to support other people doing their everday projects, and there is plenty of inspiration to take from. The bigger the network of everyday folks that I can connect with, the better.
+ - **Enough Bootstrap, jQuery is too easy.** Four of my projects have been based on Bootstrap, three of which with heavy jQuery use to make them interactive. Having a few demo sites like this which show I have basic knowledge of how to use Bootstrap/jQuery is useful. I'm ready to move on, I know these frameworks well enough now.
+ - **The project I'm most proud of...** is the largest empty square pen. Visualising this algorithm looks super cool, and I got to learn some nice theory while implementing it. I'm definitely doing more algorithms focused pens.
+ - **The project I'm least proud of...** is the first atomic design & german grammar tables pen. I wasn't able to implement DRY code, and used a lot of Bootstrap for my atomic and molecular components, so it doesn't really count. The result doesn't look good, and a German grammar teacher on Twitter saw it and helpfully pointed out that I'd been learning my tables the wrong way for three years.
+
+
 ## Day 7 - Beyond Duality - Generative Art
 Click in the center of the circle to go beyond duality. The stamps represent peace & diligence. 
-I'd say this is the first generative art piece I've made that works on any device size, no matter if you resize. I need to tidy up the work I've done here and then apply the technique to other projects.
+I'd say this is the first generative art piece I've made that works on any device size, no matter if you resize. I need to tidy up the work I've done to achieve this and then apply the technique to other projects.
 
 <p data-height="500" data-theme-id="35659" data-slug-hash="vvjXjV" data-default-tab="result" data-user="jhancock532" data-pen-title="Beyond Duality - Generative Art" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/vvjXjV/">Beyond Duality - Generative Art</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
