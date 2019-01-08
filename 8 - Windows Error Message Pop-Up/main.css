@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "PixelVJVeranda";
+  src: url(http://res.cloudinary.com/dvxmjunfv/raw/upload/v1546968501/Fonts/PixelFJVerdana12pt.ttf) format("truetype");
+}
+
+#popupBox {
+  width: 20em;
+  /*height: 10em;*/
+  background-color: #ddd;
+  overflow: auto;
+  padding: 0.0em;
+  border-style: outset;
+  border-width: 3px;
+}
+
+#alertSymbol {
+  display: inline-block;
+  width: 25%;
+}
+
+#alertSymbolImage {
+  display: inline-block;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#alertTitle {
+  display: inline;
+  font-family: "PixelVJVeranda", Tahoma;
+}
+
+#alertMessage {
+  display: inline;
+}
+
+#alertMessageText {
+  display: inline-block;
+  width: 70%;
+  font-family: "PixelVJVeranda", Tahoma;
+}
+
+#messageContent {
+  background-color: #ddd;
+}
+
+#exitWindow {
+  display: inline;
+  float: right;
+}
+
+#closeButtonContainer {
+  float: right;
+}
+
+#closeButton {
+  margin:0.1em;
+  font-family: "PixelVJVeranda", Tahoma;
+  font-size: 1em;
+  border-style: outset;
+}
+
+#exitWindowButton {
+  padding: 0em 0.2em;
+}
+
+#headerBar {
+  padding: 0.2em;
+  background-color: #0934C1;
+  color: #fff;
+}
+
