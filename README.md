@@ -12,6 +12,26 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 *How will I improve my skills through this project?*
 
+> Regular weekly reflections on the work recently completed, focusing on what worked and didn't work, looking at particular skills I wish to develop and areas of weakness.
+
+## Day 8 - Windows Error Message Pop-Up
+
+I limited myself to one hour to complete this pen - I think I'd need at least twice that to do it properly. I wasted around 10 mins trying to get my imported font to work (it still doesn't). The rest of the time was spent productively, ish - 10 mins on the initial layout and structure of the HTML, and 40 mins of CSS tweaking and constant googling of how to CSS.
+
+The result is poor CSS code structure, nightmare of id tags in the HTML section, and a fire gif where there should be a windows warning icon. I don't think I'll limit myself to only one hour again. 
+
+This has been a great learning experience to reflect on however... 
+- You can't rush quality code
+- I'm still being far too ambitious with my projects
+- Constantly requiring to Google things is limiting my productivity
+- A single bug can screw over development quite a lot if you let it
+- I really don't know CSS that well, but I guess I know it well enough that I can Google the right things for a passable result
+- Finding approprate assests and preparing them for a creative project takes more time than you think
+- I just refreshed my memory on a whole bunch of CSS styling in an hour
+
+<p data-height="300" data-theme-id="35659" data-slug-hash="VqdoJx" data-default-tab="css,result" data-user="jhancock532" data-pen-title="Windows Error Message Pop-up" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/VqdoJx/">Windows Error Message Pop-up</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 # Week One Reflection
  - **My code quality isn't beautiful, but I can make it better.** I know what good code looks like, but I'm not consistently writing to that standard, often due to being in a rush to get the project done / lack of effort. This isn't an acceptable excuse - it is much better to code slowly and create a small project to build on and reuse later, than do a one off large project that nobody cares about.
  - **I'm spending too much time on these projects.** Next week I'll limit myself to one hour only per day. If I can't do a quick project, then I won't be able to sustain doing projects when I'm busier. I'm being too ambitious at the moment.
