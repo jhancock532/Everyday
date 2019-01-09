@@ -1,5 +1,5 @@
 # James Hancock
-Hello world. I'm studying computer science with innovation at the University of Bristol: this is my everyday project website. 
+Hello world. I'm studying computer science with innovation at the University of Bristol. This is my everyday project website, containing the results of my projects and reflection and commentary on them. The below links will help you jump to the sections you are interested in.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
