@@ -1,5 +1,5 @@
 # James Hancock
-Hello world. I'm studying computer science with innovation at the University of Bristol: this year I'm part of several small teams working with industry clients. Work ranges from developing an app for a local startup to understanding the users of a makerspace.
+Hello world. I'm studying computer science with innovation at the University of Bristol: this is my everyday project website. 
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
@@ -13,6 +13,13 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 *How will I improve my skills through this project?*
 
 > Regular weekly reflections on the work recently completed, focusing on what worked and didn't work, looking at particular skills I wish to develop and areas of weakness.
+
+## Day 9 - Remembering Interview Questions
+
+After yesterday's disaster of limiting myself to one hour, I decided to do it again. I failed to fully complete the project to the standard I was hoping, but I think I'm improving slightly. I'm learning about the importance of prioritisation and planning - without it, you won't have a complete project by the time it comes to stop. Making design scarifices because of lack of time is definitely an interesting experience, as I usually work until completion. I think I've given myself a good less ambitious project to solve, but it was still not quite possible to do in the hour. The code quality and commenting is still doing quite badly - this is an area I really need to improve in. I'm reading into it tonight.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="qLyzgW" data-default-tab="js,result" data-user="jhancock532" data-pen-title="Remember the Question! Interview Practice" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/qLyzgW/">Remember the Question! Interview Practice</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Day 8 - Windows Error Message Pop-Up
 
