@@ -12,7 +12,16 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 *How will I improve my skills through this project?*
 
-> Regular weekly reflections on the work recently completed, focusing on what worked and didn't work, looking at particular skills I wish to develop and areas of weakness.
+> I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
+
+## Day 10 - Learning To Paint 1
+
+It's day three of limiting myself to one hour, and I decided to go about it in a slightly different way - today is part of a much larger project, so I don't have to finish everything in one go. Much more sensible. This is probably how most programmers do it in real life.
+
+The good news is that my code quality has improved a bit now I'm not rushing for time, and I've got a better sense of where to add comments from reading a few guides on it. I've finally started to use the ```class``` constructor in this project, hopefully in two days I'll get to try learning Javascript inheritance as I create a new brush based off the old one. Something new to learn!
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="BvOeJb" data-default-tab="js,result" data-user="jhancock532" data-pen-title="Learning to Paint I" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/BvOeJb/">Learning to Paint I</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Day 9 - Remembering Interview Questions
 
