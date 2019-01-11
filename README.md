@@ -14,7 +14,14 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
-## Day 10 - Learning To Paint 1
+## Day 11 - Learning To Paint II
+
+Developing with a much better flow today. Limited to one hour without qualms, but spent at least 20 mins messing with parameters and watching the results. Making consistent progress, and code quality is steadily increasing. I learned today about the awesomeness of adding really subtle vignettes.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="aPRezQ" data-default-tab="result" data-user="jhancock532" data-pen-title="Learning to Paint II" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/aPRezQ/">Learning to Paint II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+## Day 10 - Learning To Paint I
 
 It's day three of limiting myself to one hour, and I decided to go about it in a slightly different way - today is part of a much larger project, so I don't have to finish everything in one go. Much more sensible. This is probably how most programmers do it in real life.
 
