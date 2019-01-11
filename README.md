@@ -16,7 +16,7 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 ## Day 11 - Learning To Paint II
 
-Developing with a much better flow today. Limited to one hour without qualms, but spent at least 20 mins messing with parameters and watching the results. Making consistent progress, and code quality is steadily increasing. I learned today about the awesomeness of adding really subtle vignettes.
+Developing with a much better flow today. Limited to one hour without qualms, spent at least 20 mins afterwards messing with parameters and watching the results. Making consistent progress, and code quality is steadily increasing. I learned today about the awesomeness of adding really subtle vignettes.
 
 <p data-height="500" data-theme-id="35659" data-slug-hash="aPRezQ" data-default-tab="result" data-user="jhancock532" data-pen-title="Learning to Paint II" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/aPRezQ/">Learning to Paint II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
