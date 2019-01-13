@@ -14,6 +14,21 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
+## Day 13 - Particle System Template I
+I'm noticing a pattern in how I'm creating some generative art projects - a central simulation class, which holds all the particles and their settings, and then the particle class. This project is an attempt at creating a basic template which has all the essentials for a particle simulation in it. 
+
+The gravity / physics simulation isn't quite right yet, but I like how I'm taking in the dat.GUI object to do all the settings assignment inside the ParticleSystem class - it's nice to be able to encapsulate everything. Those multiline code comments above the functions are super neat, I should add more.
+
+Things I want to try out:
+- [webtask.io](https://webtask.io/docs/) for serverless programming sounds **awesome**.
+- Get Learning to Paint to do a sketch of a person. 
+- Tidy up this project for easy reuse & better default physics. 
+- Project Euler. "The programming right of passage"
+- Learn a bit of React.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="MZZjwv" data-default-tab="result" data-user="jhancock532" data-pen-title="Particle System Template I" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/MZZjwv/">Particle System Template I</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 12 - Learning To Paint III
 Most of today was spent fixing the maths of yesterday. Everything seems in order now, tomorrow is more parameter fiddling and then development of the Painting class - hopefully!
 
@@ -58,7 +73,7 @@ This has been a great learning experience to reflect on however...
 - Finding approprate assests and preparing them for a creative project takes more time than you think
 - I just refreshed my memory on a whole bunch of CSS styling in an hour
 
-<p data-height="300" data-theme-id="35659" data-slug-hash="VqdoJx" data-default-tab="css,result" data-user="jhancock532" data-pen-title="Windows Error Message Pop-up" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/VqdoJx/">Windows Error Message Pop-up</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="500" data-theme-id="35659" data-slug-hash="VqdoJx" data-default-tab="css,result" data-user="jhancock532" data-pen-title="Windows Error Message Pop-up" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/VqdoJx/">Windows Error Message Pop-up</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # Week One Reflection
