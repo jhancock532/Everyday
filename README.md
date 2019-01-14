@@ -14,6 +14,12 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
+## Day 14 - Particle System Template II
+It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough now. 
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="MZZMVK" data-default-tab="result" data-user="jhancock532" data-pen-title="Particle System Template II" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/MZZMVK/">Particle System Template II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 13 - Particle System Template I
 I'm noticing a pattern in how I'm creating some generative art projects - a central simulation class, which holds all the particles and their settings, and then the particle class. This project is an attempt at creating a basic template which has all the essentials for a particle simulation in it. 
 
