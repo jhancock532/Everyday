@@ -1,10 +1,10 @@
 # James Hancock
-Hello world. I'm studying computer science with innovation at the University of Bristol. This is my everyday project website, containing the results of my projects and reflection and commentary on them. The below links will help you jump to the sections you are interested in.
+A computer science with innovation student at the University of Bristol. The course is a blend of design, entrepreneurship and weird machines what make light when you poke them right. This stuff here is all to do with the latter.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
 # Inspiration and Strategy
-This project was [inspired by Beeple](https://vimeo.com/125524216), his attitude and creative work in equal measure.
+This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty cool.
 
 *What is my definition of an everyday?*
 
