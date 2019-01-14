@@ -1,5 +1,15 @@
-# James Hancock
-A computer science with innovation student at the University of Bristol. The course is a blend of design, entrepreneurship and weird machines what make light when you poke them right. This stuff here is all to do with the latter.
+# james hancock
+A computer science with innovation student at the University of Bristol. 
+
+- Occasionally seen attending university focus groups.
+- Has tested many Bristol coffee shops.
+- Chairman of Zen Society, Buddhist/Zen interfaith representative.  
+- Currently trying to understand Christian faith better.
+- Events organiser for Innovation Society. 
+- Course representative for 2nd year engineering students studying innovation.
+- Watches [Tagesschau](https://www.ardmediathek.de/ard/shows/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU/tagesschau) daily, understanding the gist of it but not catching every word. Taking an open unit in German this year. 
+- Helps out at the innovation center on offer holder days / a panel event for finding work experience.
+- A real human being™ just trying to get by.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
@@ -14,8 +24,20 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
+# Week Two Reflection
+- **The internet is full of possibilities.** A friend recently introduced me to [glitch.com](https://glitch.com/) a super cool website filled with awesome projects, all hosted for free! Next month I'm going to be making projects on this site, to change things up from CodePen.
+- **Splitting projects into chunks is a good idea, as a good creative result takes time.** Let's face it, "Learning to Paint I" and a bunch of other projects this week look terrible. The best projects are the end results of those which I've split into parts and built on over several days. To quote Wordburglar - *"Good things take time, like a watch repossessor."* I have to accept this and not be so impatient in expecting excellent results.
+- **Don't let Twitter gratification hold you back: this is bigger than getting likes or followers.** I've got to stop caring so much about the number of Twitter followers, likes or retweets I'm getting, because I'm starting to get validation from these numbers. That validation leads to addiction. I have a conflict between creating stuff which looks good for the Twitter account and making good headway on a coding project or expanding coding skills. It doesn't help that everyday I have to tweet a link to the code and the imagery of the result, as per my original everyday strategy.
+- **It takes a lot of time to learn how to code, and I'm really only just starting.** Only considering the long term will I achieve any lasting success. I must suffer the pain of loosing followers from posting unattractive work in the short term if in the long term it improves my overall skillset and creative results. Working through this in my head has helped me discount the value of twitter followers and external gratification, although this is something I'll have to be careful of a lot in the future. Next week I shall commit to going on Twitter only once a day, when I release everyday details.
+- **You have to make pragmatic decisions while coding.**
+> "It's courageous developers like Ada, who not only try things out but who share their code and document their process that helps us all appreciate, that everyone, no matter their skill level or experience, have to make pragmatic choices when coding." [glitch.com](https://glitch.com/culture/the-cutting-edge-of-the-web-with-ada-rose-cannon/)
+My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
+- 
+
 ## Day 14 - Particle System Template II
-It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough now. 
+It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough. 
+
+End of week 2! *Nice.*
 
 <p data-height="500" data-theme-id="35659" data-slug-hash="MZZMVK" data-default-tab="result" data-user="jhancock532" data-pen-title="Particle System Template II" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/MZZMVK/">Particle System Template II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
