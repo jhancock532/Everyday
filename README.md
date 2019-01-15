@@ -6,9 +6,9 @@ A computer science with innovation student at the University of Bristol.
 - Has tested many Bristol coffee shops.
 - Events organiser for Innovation Society. 
 - Course representative for 2nd year engineering students studying innovation.
-- Trying to get by.
+- Getting by.
 
-[Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
+[Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
 
 # Inspiration and Strategy
 This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty cool.
