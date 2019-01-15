@@ -1,12 +1,9 @@
 # james hancock
 A computer science with innovation student at the University of Bristol. 
 
-- Occasionally seen attending university focus groups.
-- Chairman of Zen Society, Buddhist/Zen interfaith representative. 
 - Has tested many Bristol coffee shops.
-- Events organiser for Innovation Society. 
-- Course representative for 2nd year engineering students studying innovation.
-- Getting by.
+- Occasionally seen attending university focus groups.
+- Thinks code is pretty neat.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
 
