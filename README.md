@@ -1,7 +1,7 @@
 # james hancock
 A computer science with innovation student at the University of Bristol. 
 
-- Has tested many Bristol coffee shops.
+- Has been in many Bristol coffee shops.
 - Occasionally seen attending university focus groups.
 - Thinks code is pretty neat.
 
