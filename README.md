@@ -22,7 +22,7 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 
 Did a codepen challenge :o Tried out serverless(?) coding for the first time. It's not a very robust solution. Man I need to learn more about Javascript.
 
-<p data-height="500" data-theme-id="35659" data-slug-hash="BvbQrZ" data-default-tab="result" data-user="jhancock532" data-pen-title="What's Your Favourite Primary Colour? Internet Survey" style="height: 377px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/BvbQrZ/">What's Your Favourite Primary Colour? Internet Survey</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<p data-height="500" data-theme-id="35659" data-slug-hash="BvbQrZ" data-default-tab="result" data-user="jhancock532" data-pen-title="What's Your Favourite Primary Colour? Internet Survey" style="height: 377px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-preview="true" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/BvbQrZ/">What's Your Favourite Primary Colour? Internet Survey</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # Week Two Reflection
@@ -30,10 +30,12 @@ Did a codepen challenge :o Tried out serverless(?) coding for the first time. It
 - **Splitting projects into chunks is a good idea, as a good creative result takes time.** Let's face it, "Learning to Paint I" and a bunch of other projects this week look terrible. The best projects are the end results of those which I've split into parts and built on over several days. To quote Wordburglar - *"Good things take time, like a watch repossessor."* I have to accept this and not be so impatient in expecting excellent results.
 - **Don't let Twitter gratification hold you back: this is bigger than getting likes or followers.** I've got to stop caring so much about the number of Twitter followers, likes or retweets I'm getting, because I'm starting to get validation from these numbers. That validation leads to addiction. I have a conflict between creating stuff which looks good for the Twitter account and making good headway on a coding project or expanding coding skills. It doesn't help that everyday I have to tweet a link to the code and the imagery of the result, as per my original everyday strategy.
 - **It takes a lot of time to learn how to code, and I'm really only just starting.** Only considering the long term will I achieve any lasting success. I must suffer the pain of loosing followers from posting unattractive work in the short term if in the long term it improves my overall skillset and creative results. Working through this in my head has helped me discount the value of twitter followers and external gratification, although this is something I'll have to be careful of a lot in the future. Next week I shall commit to going on Twitter only once a day, when I release everyday details.
-- **You have to make pragmatic decisions while coding.**
+- **You have to make pragmatic decisions while coding.** My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
+
 > "It's courageous developers like Ada, who not only try things out but who share their code and document their process that helps us all appreciate, that everyone, no matter their skill level or experience, have to make pragmatic choices when coding." [glitch.com](https://glitch.com/culture/the-cutting-edge-of-the-web-with-ada-rose-cannon/)
-My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
-- 
+
+
+
 
 ## Day 14 - Particle System Template II
 It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough. 
