@@ -2,14 +2,11 @@
 A computer science with innovation student at the University of Bristol. 
 
 - Occasionally seen attending university focus groups.
+- Chairman of Zen Society, Buddhist/Zen interfaith representative. 
 - Has tested many Bristol coffee shops.
-- Chairman of Zen Society, Buddhist/Zen interfaith representative.  
-- Currently trying to understand Christian faith better.
 - Events organiser for Innovation Society. 
 - Course representative for 2nd year engineering students studying innovation.
-- Watches [Tagesschau](https://www.ardmediathek.de/ard/shows/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXU/tagesschau) daily, understanding the gist of it but not catching every word. Taking an open unit in German this year. 
-- Helps out at the innovation center on offer holder days / a panel event for finding work experience.
-- A real human being™ just trying to get by.
+- Trying to get by.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection)
 
@@ -23,6 +20,13 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 *How will I improve my skills through this project?*
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
+
+## Day 15 - What's Your Favourite Colour? Internet Survey
+
+Did a codepen challenge :o Tried out serverless(?) coding for the first time. It's not a very robust solution. Man I need to learn more about Javascript.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="BvbQrZ" data-default-tab="result" data-user="jhancock532" data-pen-title="What's Your Favourite Primary Colour? Internet Survey" style="height: 377px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/BvbQrZ/">What's Your Favourite Primary Colour? Internet Survey</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # Week Two Reflection
 - **The internet is full of possibilities.** A friend recently introduced me to [glitch.com](https://glitch.com/) a super cool website filled with awesome projects, all hosted for free! Next month I'm going to be making projects on this site, to change things up from CodePen.
