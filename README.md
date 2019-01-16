@@ -18,6 +18,13 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
+## Day 16 - Learning to Paint IV
+
+This one is a huge mess, but coding it gave me some further ideas... Anyway, we live and learn.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="jXRwrp" data-default-tab="result" data-user="jhancock532" data-pen-title="Learning to Paint IV" style="height: 476px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-preview="true" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/jXRwrp/">Learning to Paint IV</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 15 - What's Your Favourite Colour? Internet Survey
 
 Did a codepen challenge :o Tried out serverless(?) coding for the first time. It's not a very robust solution. Man I need to learn more about Javascript.
