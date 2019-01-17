@@ -18,6 +18,13 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
 
+## Day 17 - The Enchanted Islands, by Averil Demuth
+
+Putting the particle system template to good use and getting some typography going. Don't have much time for a full project today.
+
+<p data-height="500" data-theme-id="35659" data-slug-hash="xmNxqK" data-default-tab="result" data-user="jhancock532" data-pen-title="The Enchanted Islands, by Averil Demuth" style="height: 521px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-preview="true" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/xmNxqK/">The Enchanted Islands, by Averil Demuth</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 16 - Learning to Paint IV
 
 This one is a huge mess, but coding it gave me some further ideas... Anyway, we live and learn.
