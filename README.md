@@ -1,9 +1,5 @@
 # james hancock
-A computer science with innovation student at the University of Bristol. 
-
-- Has been in many Bristol coffee shops.
-- Occasionally seen attending university focus groups.
-- Thinks code is pretty neat.
+A computer science with innovation student at the University of Bristol. Does things with code - mostly web stuff recently, focusing on generative art with JavaScript.
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
 
@@ -17,6 +13,19 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 *How will I improve my skills through this project?*
 
 > I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
+
+## Day 18 - Twitter Simulator
+
+Ok, this. This is getting quite difficult. The quality of the pieces / how I present them is going to take a hit. It's time to step back and reconsider the daily deliverables for this project. The conflict with twitter has reached a point I'm no longer happy putting work out on it unless it's finished. So I'm changing my definition. One new pen every day, forked from a previous pen. 
+
+I'm not going to needlessly stress myself out over a goal that I'm setting for myself, especially if doing so means I give up quicker. This is just the start, I've got a long way to go yet, and I'll work things out more as I go along. 
+
+<p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="OreBMq" data-preview="true" style="height: 474px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Twitter Simulator">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/OreBMq/">
+  Twitter Simulator</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 ## Day 17 - The Enchanted Islands, by Averil Demuth
 
