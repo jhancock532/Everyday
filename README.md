@@ -3,16 +3,17 @@ A computer science with innovation student at the University of Bristol. Does th
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
 
-# Inspiration and Strategy
-This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty cool.
-
-*What is my definition of an everyday?*
-
-> A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
-
-*How will I improve my skills through this project?*
-
-> I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
+## Day 19 - Learning JavaScript 1
+I read [this](http://javascriptissexy.com/javascript-objects-in-detail/) blog post, and made notes [here](https://codepen.io/jhancock532/pen/gZVwMR?editors=0012).
+```
+/* KEY LEARNING POINTS
+ * - JSON.stringify and JSON.parse are pretty useful.
+ * - You can delete, iterate through and test the existance of properties. 
+ * - delete obj.property, if ("property" in object), object.hasOwnProperty...
+ * - You can only iterate through enumerable properties. use "for (var ... in ...)"
+ * - Properties are inherited from the prototype (Might be an oversimplification...)
+ */
+```
 
 ## Day 18 - Twitter Simulator
 
@@ -187,3 +188,14 @@ A template which has all the basics of P5JS and dat.GUI set up for you, so you c
 
 <p data-height="500" data-theme-id="0" data-slug-hash="maqvax" data-default-tab="js,result" data-user="jhancock532" data-pen-title="P5JS & dat.GUI Template (Beginner)" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/maqvax/">P5JS & dat.GUI Template (Beginner)</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+# Inspiration and Strategy
+This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty cool.
+
+*What is my definition of an everyday?*
+
+> A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
+
+*How will I improve my skills through this project?*
+
+> I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
