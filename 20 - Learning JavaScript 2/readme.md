@@ -1,4 +1,4 @@
-Read the blog posts at
+I read the blog posts at
 - http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
 - //https://hackernoon.com/prototypes-in-javascript-5bba2990e04b
 
@@ -16,4 +16,5 @@ My key learning takeaways were
 ```
 
 You can see the full notes at
+
 https://codepen.io/jhancock532/pen/QzezjQ?editors=0012
