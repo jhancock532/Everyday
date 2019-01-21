@@ -1,7 +1,7 @@
 # james hancock
-A computer science with innovation student at the University of Bristol. Learning web development, one day at a time. 
+A computer science and innovation student at the University of Bristol: Learning web development, one day at a time. 
 
-This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying fundamental concepts of JavaScript recently.
+This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamental concepts of JavaScript recently.
 
 What you see here is not a portfolio of polished, final products, but a long-term journey, a learning process filled with ups and downs. My [CodePen profile](https://codepen.io/jhancock532/#) features some of the work I'm most proud of.
 
