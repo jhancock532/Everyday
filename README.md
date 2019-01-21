@@ -3,6 +3,23 @@ A computer science with innovation student at the University of Bristol. Does th
 
 [Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
 
+## Day 21 - Learning JavaScript 3
+Learning from...
+- http://javascriptissexy.com/understanding-es2015-in-depth-part-1-block-scope-with-let-and-const/
+- https://www.w3schools.com/js/js_errors.asp
+- https://www.w3schools.com/jsref/jsref_obj_global.asp
+My notes are [here](https://codepen.io/jhancock532/pen/dabJob) (note the end of the URL, dabJob).
+
+```
+/* KEY LEARNING POINTS
+ * Global, function and block scope: Each is the child of the previous.
+ * Block scope is defined by a statement then {};
+ * let is different from var, it's strict to block scope when var is open to function scope.
+ * when let is hoisted it isn't initalized with undefined like var. 
+ * try {stuff throw "Custom error"} catch(error) {handle it} finally {no matter what do this}
+ */
+```
+
 ## Day 20 - Learning JavaScript 2
 I'll admit, the stuff I'm learning from this pretty interesting. It'll definitely change how I go about my projects in the future.
 
