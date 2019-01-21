@@ -1,7 +1,18 @@
 # james hancock
-A computer science with innovation student at the University of Bristol. Does things with code - mostly web stuff recently, focusing on generative art with JavaScript.
+A computer science with innovation student at the University of Bristol. Learning web development, one day at a time. 
 
-[Inspiration](#inspiration-and-strategy) : [Week One Reflection](#week-one-reflection) : [Week Two Reflection](#week-two-reflection)
+This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying fundamental concepts of JavaScript recently.
+
+What you see here is not a portfolio of polished, final products, but a long-term journey, a learning process filled with ups and downs. My [CodePen profile](https://codepen.io/jhancock532/#) features some of the work I'm most proud of.
+
+To read more of the inspiration that started this process and the inital strategy I followed, [click here](#inspiration-and-strategy). Part of this strategy was performing weekly reflections on what I'd done that week. You can find a direct link to these reflections below.
+
+- [Week One Reflection](#week-one-reflection) 
+- [Week Two Reflection](#week-two-reflection)
+- [Week Three Reflection](#week-three-reflection)
+
+# Week Three Reflection
+in progress
 
 ## Day 21 - Learning JavaScript 3
 Learning from...
