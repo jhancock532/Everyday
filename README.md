@@ -13,6 +13,8 @@ To read more of the inspiration that started this process and the inital strateg
 
 # Day 22 - CodePen Recursion 
 
+Recursion in recursion in recursion in recursion. And that was about as far as it went. Spent most of the developing time for this one trying to debug as many levels of recusion as possible.
+
 <p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="VgwNYN" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="CodePen Recusion I">
   <span>See the Pen <a href="https://codepen.io/jhancock532/pen/VgwNYN/">
   CodePen Recusion I</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
