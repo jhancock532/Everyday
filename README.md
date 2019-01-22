@@ -11,9 +11,20 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
 
+# Week Three Reflection
+Ok, coming to do this a day late, oops. Sometimes you don't have time to do everything you want to do in a day, yesterday I choose a good nights sleep instead of stressing myself. 
+
+- **The world is full of possibilities.** There are plenty of meetup groups regarding computer science and other specific frameworks happening around Bristol. I need to make a weekly habit of checking various online posting boards for these events.
+- **It's tough, it doesn't always feel good, and it takes a lot of time and effort.** You just have to do it. Face the inital fear and demotivation to do anything, then start. And once you've started, it's a lot easier to keep going. I have to take responsibility for what I want to learn, and then set on the course of learning it, even though I will fail and experience a lot of suffering on this road of learning. As such, I need to become aware of what I don't know, and be patient and open to new information when learning.
+- **Making time is difficult, but it is possible.** This isn't a huge problem yet, but it's going to get more difficult as term starts again. Projects are going to have to extend out over the course of a week, and I may be able to spend 30 mins developing code in the evenings. Time to start a habit of doing development at fixed times during the week.
+- **I need to plan out how I am learning JavaScript.** There is a lot of stuff to learn, all of it really awesome, but like a LOT of stuff. What I've done is looked into the basic stuff that's been nagging me so far, and then reading on with stuff that catches my attention. This study will be a lot more rewarding if I have goals to aim towards, so I can get an overall sense of progress as I complete my study day by day. Online courses, tutorials and textbooks will be my friend here. Ok, just Googled it - found https://javascript.info/ which looks good enough. I'll read through these chapters and make notes when I learn new things. It seems to have a good advanced section, which looks very interesting...
+- **I must practice what I have learned.** Learning these techniques will only change how I code in JavaScript if I practice using them and build them into my coding projects. I'll work through the javascript.info guide for the most part of the week, then develop new code putting lessons into practice other days of the week. 
+- **Understanding JavaScript fundamentals is awesome.** Knowledge is power. It's really satisfying to gain understanding.
+- **Twitter is no longer a big issue, now a minor one.** By spending 15 mins to follow an extra 890 random Twitter accounts, I now care less about these numbers beside my bio. A downside of this is that I've gained 200 followers in the process of follow spamming random people, so now a lot more people are going to be looking at my tweets - I've decided that I really don't care that much. In the future I will probably care again, but only when I start putting out visually appealing work. I have to learn to face the fear of social rejection (very difficult) and overcome it.
+
 # Day 22 - CodePen Recursion 
 
-Recursion in recursion in recursion in recursion. And that was about as far as it went. Spent most of the developing time for this one trying to debug as many levels of recusion as possible.
+Recursion in recursion in recursion in recursion (that was about as far as it goes). Spent most of the developing time for this one trying to debug as many levels of recusion as possible. Not a very good coding day, but there's always tomorrow. Speaking of which, I need to write a reflection on this week's work...
 
 <p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-preview="true" data-slug-hash="VgwNYN" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="CodePen Recusion I">
   <span>See the Pen <a href="https://codepen.io/jhancock532/pen/VgwNYN/">
@@ -21,9 +32,6 @@ Recursion in recursion in recursion in recursion. And that was about as far as i
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-# Week Three Reflection
-in progress
 
 ## Day 21 - Learning JavaScript 3
 Learning from...
@@ -113,9 +121,6 @@ Did a codepen challenge :o Tried out serverless(?) coding for the first time. It
 - **You have to make pragmatic decisions while coding.** My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
 
 > "It's courageous developers like Ada, who not only try things out but who share their code and document their process that helps us all appreciate, that everyone, no matter their skill level or experience, have to make pragmatic choices when coding." [glitch.com](https://glitch.com/culture/the-cutting-edge-of-the-web-with-ada-rose-cannon/)
-
-
-
 
 ## Day 14 - Particle System Template II
 It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough. 
