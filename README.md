@@ -1,5 +1,5 @@
 # james hancock
-A computer science and innovation student at the University of Bristol: Learning web development, one day at a time. 
+A computer science and innovation student at the University of Bristol. 
 
 This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamental concepts of JavaScript recently.
 
@@ -10,6 +10,15 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week One Reflection](#week-one-reflection) 
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
+
+# Day 22 - CodePen Recursion 
+
+<p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="VgwNYN" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="CodePen Recusion I">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/VgwNYN/">
+  CodePen Recusion I</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # Week Three Reflection
 in progress
