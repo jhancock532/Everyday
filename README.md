@@ -35,9 +35,9 @@ Recursion in recursion in recursion in recursion (that was about as far as it go
 
 ## Day 21 - Learning JavaScript 3
 Learning from...
-- http://javascriptissexy.com/understanding-es2015-in-depth-part-1-block-scope-with-let-and-const/
-- https://www.w3schools.com/js/js_errors.asp
-- https://www.w3schools.com/jsref/jsref_obj_global.asp
+- [http://javascriptissexy.com/understanding-es2015-in-depth-part-1-block-scope-with-let-and-const/](here)
+- [https://www.w3schools.com/js/js_errors.asp](there)
+- [https://www.w3schools.com/jsref/jsref_obj_global.asp](everywhere)
 My notes are [here](https://codepen.io/jhancock532/pen/dabJob) (note the end of the URL, dabJob).
 
 ```
