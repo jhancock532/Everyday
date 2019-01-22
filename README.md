@@ -1,9 +1,9 @@
-# james hancock
-A computer science and innovation student at the University of Bristol. 
+# Introduction
+Hello, I'm James Hancock, a computer science and innovation student studying at the University of Bristol. 
 
 This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamental concepts of JavaScript recently.
 
-What you see here is not a portfolio of polished, final products, but a long-term journey, a learning process filled with ups and downs. My [CodePen profile](https://codepen.io/jhancock532/#) features some of the work I'm most proud of.
+What you see here is not a portfolio of polished, final products, but a long-term journey, a learning process filled with ups and downs. This website is part code, part blog, so be warned about rambling writing. My [CodePen profile](https://codepen.io/jhancock532/#) features some of the work I'm most proud of.
 
 To read more of the inspiration that started this process and the inital strategy I followed, [click here](#inspiration-and-strategy). Part of this strategy was performing weekly reflections on what I'd done that week. You can find a direct link to these reflections below.
 
@@ -12,7 +12,7 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week Three Reflection](#week-three-reflection)
 
 # Week Three Reflection
-Ok, coming to do this a day late, oops. Sometimes you don't have time to do everything you want to do in a day, yesterday I choose a good nights sleep instead of stressing myself. 
+Ok, coming to do this a day late, but no real harm done.
 
 - **The world is full of possibilities.** There are plenty of meetup groups regarding computer science and other specific frameworks happening around Bristol. I need to make a weekly habit of checking various online posting boards for these events.
 - **It's tough, it doesn't always feel good, and it takes a lot of time and effort.** You just have to do it. Face the inital fear and demotivation to do anything, then start. And once you've started, it's a lot easier to keep going. I have to take responsibility for what I want to learn, and then set on the course of learning it, even though I will fail and experience a lot of suffering on this road of learning. As such, I need to become aware of what I don't know, and be patient and open to new information when learning.
