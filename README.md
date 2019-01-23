@@ -1,15 +1,32 @@
 # Introduction
 Hello, I'm James Hancock, a computer science and innovation student studying at the University of Bristol. 
 
-This website is a long list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamental concepts of JavaScript recently.
+This website is a list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamentals of JavaScript recently.
 
-What you see here is not a portfolio of polished, final products, but a long-term journey, a learning process filled with ups and downs. This website is part code, part blog, so be warned about rambling writing. My [CodePen profile](https://codepen.io/jhancock532/#) features some of the work I'm most proud of.
+What you see here is not a portfolio of polished, final products, more of a long-term journey, a learning process filled with ups and downs. This website is part code, part blog, so be warned about rambling reflections.
 
 To read more of the inspiration that started this process and the inital strategy I followed, [click here](#inspiration-and-strategy). Part of this strategy was performing weekly reflections on what I'd done that week. You can find a direct link to these reflections below.
 
 - [Week One Reflection](#week-one-reflection) 
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
+
+## Day 23 - Learning JavaScript 4
+
+I started reading from the beginning of the [javascript.info](http://javascript.info/) tutorial, and made it to the section on [types](http://javascript.info/types). I've learned some useful fundamentals of the JavaSript language that I had never known before, as well as a killer keyboard shortcut to comment out code. 
+
+My notes can be found [here](https://codepen.io/jhancock532/pen/rPaQXz).
+
+### Key Learning Points
+- CoffeeScript, TypeScript, Dart are languages built on JavaScript that get transpiled to JavaScript.
+- Press Shift + Enter to enter multiple lines of JavaScript into the FireFox console.
+- ```<script type="" language="" ...>``` <-- These tags aren't necessary.
+- Add `"use strict";` at the top of your code.
+- The console object has a lot more functions than just log.
+- The keyboard shortcut, crtl + / auto comments out lines of code (add shift for multiline).
+- Hardcoded constants should be written in uppercase with underscores for spaces.
+- Dynamically typed just means that variables can hold different types of input.
+- Numbers include ints, floating point, `Infinity`, `-Infinity` and `NaN`.
 
 # Week Three Reflection
 Ok, coming to do this a day late, but no real harm done.
@@ -23,7 +40,7 @@ Ok, coming to do this a day late, but no real harm done.
 - **Understanding JavaScript fundamentals is awesome.** Knowledge is power. It's really satisfying to gain understanding.
 - **Twitter is no longer a big issue, now a minor one.** By spending 15 mins to follow an extra 890 random Twitter accounts, I now care less about these numbers beside my bio. A downside of this is that I've gained 200 followers in the process of follow spamming random people, so now a lot more people are going to be looking at my tweets - I've decided that I really don't care that much. In the future I will probably care again, but only when I start putting out visually appealing work. I have to learn to face the fear of social rejection (very difficult) and overcome it.
 
-# Day 22 - CodePen Recursion 
+## Day 22 - CodePen Recursion 
 
 Recursion in recursion in recursion in recursion (that was about as far as it goes). Spent most of the developing time for this one trying to debug as many levels of recusion as possible. Not a very good coding day, but there's always tomorrow. Speaking of which, I need to write a reflection on this week's work...
 
