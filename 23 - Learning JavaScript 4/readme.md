@@ -1,4 +1,4 @@
-Learning from [http://javascript.info/](http://javascript.info/).
+Learning from [http://javascript.info/](http://javascript.info/), notes are found [here](https://codepen.io/jhancock532/pen/rPaQXz)
 
 ```
 // // Key Learning Points
