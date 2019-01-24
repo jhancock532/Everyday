@@ -11,6 +11,15 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
 
+My favourite everyday project so far has been Day 14, Particle System II. See a live demo below.
+
+<p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="MZZMVK" data-preview="true" style="height: 462px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Particle System Template II">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/MZZMVK/">
+  Particle System Template II</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 # The Everydays
 
 ## Day 24 - Learning JavaScript 5
