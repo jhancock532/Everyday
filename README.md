@@ -11,6 +11,8 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
 
+# The Everydays
+
 ## Day 24 - Learning JavaScript 5
 I finished learning about [types](https://javascript.info/types), then moved on to [operators](https://javascript.info/operators) and finally [comparisions](https://javascript.info/comparison). [My notes](https://codepen.io/jhancock532/pen/WPQejX).
 
