@@ -147,8 +147,7 @@ Did a CodePen challenge. Tried out serverless coding for the first time. I feel 
 
 # Week Two Reflection
 - **The internet is full of possibilities.** A friend recently introduced me to [glitch.com](https://glitch.com/) a super cool website filled with awesome projects, all hosted for free! Next month I'm going to be making projects on this site, to change things up from CodePen.
-- **Splitting projects into chunks is a good idea, as a good creative result takes time.** Let's face it, "Learning to Paint I" and a bunch of other projects this week look terrible. The best projects are the end results of those which I've split into parts and built on over several days. To quote Wordburglar - *"Good things take time, like a watch repossessor."* I have to accept this and not be so impatient in expecting excellent results.
-- **It takes a lot of time to learn how to code, and I'm really only just starting.** In considering the long term it's more likely I'll achieve lasting success. 
+- **Splitting projects into chunks is a good idea.** Let's face it, "Learning to Paint I" and a bunch of other projects this week look terrible. The best projects are the end results of those which I've split into parts and built on over several days. I have to accept this and not be so impatient with development. This applies to learning as well - it takes a lot of time to learn how to code, and I'm really only just starting.
 - **You have to make pragmatic decisions while coding.** My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
 
 > "It's courageous developers like Ada, who not only try things out but who share their code and document their process that helps us all appreciate, that everyone, no matter their skill level or experience, have to make pragmatic choices when coding." [glitch.com](https://glitch.com/culture/the-cutting-edge-of-the-web-with-ada-rose-cannon/)
