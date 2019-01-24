@@ -11,6 +11,20 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
 
+## Day 24 - Learning JavaScript 5
+Just covering the basics, nothing really interesting today, but kinda useful I guess. I finished learning about [types](https://javascript.info/types), then moved on to [operators](https://javascript.info/operators) and finally [comparisions](https://javascript.info/comparison). 
+
+### Key Learning Points
+- Exponentiation happens with \*\*. Use as a shorthand for Math.sqrt! 16 \*\* (1/2) = 4
+- Strings with backticks allow expression insertion, e.g. \`1 + 2 = ${1 + 2}\`
+- Strict equality operator === checks if items are equal without type conversion
+- null and undefined have there own types, but they equal with ==
+- A lot of operators auto convert elements to the right type, "6"/"3" === 2
+- Use Boolean(), Number() and String() to convert primitive types.
+- Operators have precedence and assoiation rules. a = b = 3 -> a = 3
+- Unary + operator converts the type to Number. +"8" === 8
+- Prefix ++a increments then assigns, unlike a++ which is lazy
+
 ## Day 23 - Learning JavaScript 4
 
 I started reading from the beginning of the [javascript.info](http://javascript.info/) tutorial, and made it to the section on [types](http://javascript.info/types). I've learned some useful fundamentals of the JavaSript language that I had never known before, as well as a killer keyboard shortcut to comment out code. 
