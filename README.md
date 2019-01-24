@@ -46,13 +46,11 @@ My notes can be found [here](https://codepen.io/jhancock532/pen/rPaQXz).
 Ok, coming to do this a day late, but no real harm done.
 
 - **The world is full of possibilities.** There are plenty of meetup groups regarding computer science and other specific frameworks happening around Bristol. I need to make a weekly habit of checking various online posting boards for these events.
-- **It's tough, it doesn't always feel good, and it takes a lot of time and effort.** You just have to do it. Face the inital fear and demotivation to do anything, then start. And once you've started, it's a lot easier to keep going. I have to take responsibility for what I want to learn, and then set on the course of learning it, even though I will fail and experience a lot of suffering on this road of learning. As such, I need to become aware of what I don't know, and be patient and open to new information when learning.
-- **You have good days, you have bad days.**
-- **Making time is difficult, but it is possible.** This isn't a huge problem yet, but it's going to get more difficult as term starts again. Projects are going to have to extend out over the course of a week, and I may be able to spend 30 mins developing code in the evenings. Time to start a habit of doing development at fixed times during the week.
-- **I need to plan out how I am learning JavaScript.** There is a lot of stuff to learn, all of it really awesome, but like a LOT of stuff. What I've done is looked into the basic stuff that's been nagging me so far, and then reading on with stuff that catches my attention. This study will be a lot more rewarding if I have goals to aim towards, so I can get an overall sense of progress as I complete my study day by day. Online courses, tutorials and textbooks will be my friend here. Ok, just Googled it - found https://javascript.info/ which looks good enough. I'll read through these chapters and make notes when I learn new things. It seems to have a good advanced section, which looks very interesting...
+- **It's tough, it doesn't always feel good, and it takes a lot of time and effort.** You have good days, you have bad days.
+- **Making time is difficult, but it is possible.** This isn't a huge problem yet, but it's going to get more difficult as term starts again. Projects are going to have to extend out over the course of a week, and I may only be able to spend 30 mins developing code in the evenings. Time to start a habit of doing development at fixed times during the week.
+- **I need to plan out how I am learning JavaScript.** This study will be a lot more rewarding if I have goals to aim towards, so I can get an overall sense of progress as I complete my study day by day. Found https://javascript.info/, an online course with clear sections. I'll read through these chapters and make notes when I learn new things. It seems to have a good advanced part, which looks very interesting...
 - **I must practice what I have learned.** Learning these techniques will only change how I code in JavaScript if I practice using them and build them into my coding projects. I'll work through the javascript.info guide for the most part of the week, then develop new code putting lessons into practice other days of the week. 
 - **Understanding JavaScript fundamentals is awesome.** Knowledge is power. It's really satisfying to gain understanding.
-- **Twitter is no longer a big issue, now a minor one.** By spending 15 mins to follow an extra 890 random Twitter accounts, I now care less about these numbers beside my bio. A downside of this is that I've gained 200 followers in the process of follow spamming random people, so now a lot more people are going to be looking at my tweets - I've decided that I really don't care that much. In the future I will probably care again, but only when I start putting out visually appealing work. I have to learn to face the fear of social rejection (very difficult) and overcome it.
 
 ## Day 22 - CodePen Recursion 
 
@@ -113,7 +111,7 @@ I read [this](http://javascriptissexy.com/javascript-objects-in-detail/) blog po
 
 ## Day 18 - Twitter Simulator
 
-Ok, this. This is getting quite difficult. The quality of the pieces / how I present them is going to take a hit. It's time to step back and reconsider the daily deliverables for this project. The conflict with twitter has reached a point I'm no longer happy putting work out on it unless it's finished. So I'm changing my definition. One new pen every day, forked from a previous pen. 
+Ok, this. This is getting quite difficult. The quality of the pieces / how I present them is going to take a hit. It's time to step back and reconsider the daily deliverables for this project.
 
 I'm not going to needlessly stress myself out over a goal that I'm setting for myself, especially if doing so means I give up quicker. This is just the start, I've got a long way to go yet, and I'll work things out more as I go along. 
 
@@ -140,7 +138,7 @@ This one is a huge mess, but coding it gave me some further ideas... Anyway, we 
 
 ## Day 15 - What's Your Favourite Colour? Internet Survey
 
-Did a codepen challenge :o Tried out serverless(?) coding for the first time. It's not a very robust solution. Man I need to learn more about Javascript.
+Did a CodePen challenge. Tried out serverless coding for the first time. I feel I need to learn more about JavaScript.
 
 <p data-height="500" data-theme-id="35659" data-slug-hash="BvbQrZ" data-default-tab="result" data-user="jhancock532" data-pen-title="What's Your Favourite Primary Colour? Internet Survey" style="height: 377px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-preview="true" class="codepen"><span>See the Pen <a href="https://codepen.io/jhancock532/pen/BvbQrZ/">What's Your Favourite Primary Colour? Internet Survey</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</span></p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
@@ -148,14 +146,13 @@ Did a codepen challenge :o Tried out serverless(?) coding for the first time. It
 # Week Two Reflection
 - **The internet is full of possibilities.** A friend recently introduced me to [glitch.com](https://glitch.com/) a super cool website filled with awesome projects, all hosted for free! Next month I'm going to be making projects on this site, to change things up from CodePen.
 - **Splitting projects into chunks is a good idea, as a good creative result takes time.** Let's face it, "Learning to Paint I" and a bunch of other projects this week look terrible. The best projects are the end results of those which I've split into parts and built on over several days. To quote Wordburglar - *"Good things take time, like a watch repossessor."* I have to accept this and not be so impatient in expecting excellent results.
-- **Don't let Twitter gratification hold you back: this is bigger than getting likes or followers.** I've got to stop caring so much about the number of Twitter followers, likes or retweets I'm getting, because I'm starting to get validation from these numbers. That validation leads to addiction. I have a conflict between creating stuff which looks good for the Twitter account and making good headway on a coding project or expanding coding skills. It doesn't help that everyday I have to tweet a link to the code and the imagery of the result, as per my original everyday strategy.
-- **It takes a lot of time to learn how to code, and I'm really only just starting.** Only considering the long term will I achieve any lasting success. I must suffer the pain of loosing followers from posting unattractive work in the short term if in the long term it improves my overall skillset and creative results. Working through this in my head has helped me discount the value of twitter followers and external gratification, although this is something I'll have to be careful of a lot in the future. Next week I shall commit to going on Twitter only once a day, when I release everyday details.
+- **It takes a lot of time to learn how to code, and I'm really only just starting.** In considering the long term it's more likely I'll achieve lasting success. 
 - **You have to make pragmatic decisions while coding.** My attempt on day 8 to make the windows popup taught me this, then I learned it properly on day 9. Being limited for time = pragmatic coding.
 
 > "It's courageous developers like Ada, who not only try things out but who share their code and document their process that helps us all appreciate, that everyone, no matter their skill level or experience, have to make pragmatic choices when coding." [glitch.com](https://glitch.com/culture/the-cutting-edge-of-the-web-with-ada-rose-cannon/)
 
 ## Day 14 - Particle System Template II
-It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's good enough. 
+It's good to finish a project. I'm relatively happy with the standard of code in this one, I think it's alright. 
 
 End of week 2! *Nice.*
 
@@ -228,11 +225,10 @@ This has been a great learning experience to reflect on however...
  - **My code quality isn't beautiful, but I can make it better.** I know what good code looks like, but I'm not consistently writing to that standard, often due to being in a rush to get the project done / lack of effort. This isn't an acceptable excuse - it is much better to code slowly and create a small project to build on and reuse later, than do a one off large project that nobody cares about.
  - **I'm spending too much time on these projects.** Next week I'll limit myself to one hour only per day. If I can't do a quick project, then I won't be able to sustain doing projects when I'm busier. I'm being too ambitious at the moment.
  - **I should learn the theory behind how to write good comments.** I'm sure I've seen an internet article or two about this, time to read a few and practice better commentary. This can be my project for day 8.
- - **Twitter is better than YouTube, don't spend too long on it though.** Through converting from YouTube to Twitter I'm discovering tonnes of cool resources. I like being able to support other people doing their everday projects, and there is plenty of inspiration to take from. The bigger the network of everyday folks that I can connect with, the better.
+ - **Twitter is better than YouTube, don't spend too long on it though.** Through converting from YouTube to Twitter I'm discovering tons of cool resources. I like being able to support other people doing their everday projects, and there is plenty of inspiration to take from. The bigger the network of everyday folks that I can connect with, the better.
  - **Enough Bootstrap, jQuery is too easy.** Four of my projects have been based on Bootstrap, three of which with heavy jQuery use to make them interactive. Having a few demo sites like this which show I have basic knowledge of how to use Bootstrap/jQuery is useful. I'm ready to move on, I know these frameworks well enough now.
  - **The project I'm most proud of...** is the largest empty square pen. Visualising this algorithm looks super cool, and I got to learn some nice theory while implementing it. I'm definitely doing more algorithms focused pens.
  - **The project I'm least proud of...** is the first atomic design & german grammar tables pen. I wasn't able to implement DRY code, and used a lot of Bootstrap for my atomic and molecular components, so it doesn't really count. The result doesn't look good, and a German grammar teacher on Twitter saw it and helpfully pointed out that I'd been learning my tables the wrong way for three years.
-
 
 ## Day 7 - Beyond Duality - Generative Art
 Click in the center of the circle to go beyond duality. The stamps represent peace & diligence. 
@@ -288,6 +284,8 @@ This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty 
 *What is my definition of an everyday?*
 
 > A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
+
+> An hour spent learning a framework or coding language, the key takeaways from which are neatly summurised into learning points. These learning points can then be taken and used to change development practice while coding digital creative projects.
 
 *How will I improve my skills through this project?*
 
