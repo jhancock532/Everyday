@@ -24,7 +24,7 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 ## Day 25 - Refactoring bars.js 1
 
-It's nice to put principles into practice with an actual project. Refactoring takes a lot of time, this underlying code behind this version is almost finished, but no testing or docs created yet, so development still really only half way.
+It's satisfying to finally put the principles I've learned into practice with an actual project. Working on this taught me a fair bit about getters and setters along the way as well. Refactoring takes a lot of time, now onto testing and documentation!
 
 <p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="PVZoWO" data-preview="true" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="bars.js V0.1 (Refactoring, Day 1)">
   <span>See the Pen <a href="https://codepen.io/jhancock532/pen/PVZoWO/">
