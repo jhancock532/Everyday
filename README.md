@@ -22,6 +22,12 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 # The Everydays
 
+## Day 25 - Refactoring bars.js 1
+
+It's nice to put principles into practice with an actual project. Refactoring takes a lot of time - this is still nowhere near complete.
+
+My current progress is [here](https://codepen.io/jhancock532/pen/PVZoWO), it's not very exciting at the moment.
+
 ## Day 24 - Learning JavaScript 5
 I finished learning about [types](https://javascript.info/types), then moved on to [operators](https://javascript.info/operators) and finally [comparisions](https://javascript.info/comparison). [My notes](https://codepen.io/jhancock532/pen/WPQejX).
 
