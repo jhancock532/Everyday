@@ -22,6 +22,18 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 # The Everydays
 
+## Day 26 - Processsing Community Day (London) 
+
+Wow! So many cool people, so much cool stuff, and so many interesting ideas. I'm going to think a lot more about the reasons behind how I design what I do from now on, as I've been convinced that this is something important that my work is lacking. So many new people to follow on Twitter, notes to read over, etc... so you'll forgive me for a very rough and ready everyday project. It's going to be part of something more interesting, exploring some of the ideas talked about in the conference.
+
+<p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="MLyKRj" data-preview="true" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Processing Community Day 2019">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/MLyKRj/">
+  Processing Community Day 2019</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+
 ## Day 25 - Refactoring bars.js 1
 
 It's satisfying to finally put the principles I've learned into practice with an actual project. Working on this taught me a fair bit about getters and setters along the way as well. Refactoring takes a lot of time, now onto testing and documentation!
