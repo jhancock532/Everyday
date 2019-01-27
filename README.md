@@ -33,6 +33,10 @@ One of the interesting concepts introduced at the Processing Community Day was t
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+Here are some example outputs. 
+
+<img src="https://pbs.twimg.com/media/Dx8gl3NXgAMCUe7.jpg:large">
+
 ## Day 26 - Processsing Community Day (London) 
 
 Wow! So many cool people, so much cool stuff, and so many interesting ideas. I'm going to think a lot more about the reasons behind how I design what I do from now on, as I've been convinced that this is something important that my work is lacking. So many new people to follow on Twitter, notes to read over, etc... so you'll forgive me for a very rough and ready everyday project. It's going to be part of something more interesting, exploring some of the ideas talked about in the conference.
