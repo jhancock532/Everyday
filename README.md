@@ -22,6 +22,17 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 # The Everydays
 
+## Day 27 - p5.js Logo Generator
+
+One of the interesting concepts introduced at the Processing Community Day was that of Graphic Design Programming, so I thought I'd try it out by generating p5.js logos. Interestingly, I've broken the code so that it only works when you view it **[here](https://codepen.io/jhancock532/pen/KJzBxG)** - this embed and other CodePen views don't work.
+
+<p class="codepen" data-height="514" data-theme-id="35659" data-default-tab="js" data-user="jhancock532" data-slug-hash="KJzBxG" data-preview="true" style="height: 514px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Processing Community Day 2019">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/KJzBxG/">
+  Processing Community Day 2019</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
 ## Day 26 - Processsing Community Day (London) 
 
 Wow! So many cool people, so much cool stuff, and so many interesting ideas. I'm going to think a lot more about the reasons behind how I design what I do from now on, as I've been convinced that this is something important that my work is lacking. So many new people to follow on Twitter, notes to read over, etc... so you'll forgive me for a very rough and ready everyday project. It's going to be part of something more interesting, exploring some of the ideas talked about in the conference.
