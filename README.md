@@ -24,6 +24,26 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 https://github.com/runemadsen/reactive-user-interfaces
 
+## Day 28 - Learning JavaScript 6
+
+Today I read...
+- https://javascript.info/comparison
+- https://javascript.info/ifelse
+- https://javascript.info/logical-operators
+
+[My notes are here.](https://codepen.io/jhancock532/pen/MLeWpB?editors=0012)
+
+### Key Learning Points
+- String comparisions are based on unicode and matching up letters.
+- "", null, undefined, NaN, 0 and false are falsy values.
+- The rest are all truthy values.
+- You can nest ternary (conditional operators) to create switch like statments.
+- A chain of || will return the first truthy value, reading left to right.
+- If no truthy values, the last value is returned. Can be used for short curcuit evaluation.
+- Chained && has a similar property, except it returns the first falsy value.
+- The precedence of && is higher than that of ||, and ! is higher than both.
+- A double ! or !! can be used to convert values to Boolean, but I prefer Boolean(value).
+
 ## Day 27 - p5.js Logo Generator
 
 One of the interesting concepts introduced at the Processing Community Day was that of Graphic Design Programming, so I thought I'd try it out by generating p5.js logos. Interestingly, I've broken the code so that it only works when you view it **[here](https://codepen.io/jhancock532/pen/KJzBxG)** - this embed and other CodePen views don't work.
