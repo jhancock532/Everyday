@@ -57,10 +57,10 @@ Today I read...
 - "", null, undefined, NaN, 0 and false are falsy values.
 - The rest are all truthy values.
 - You can nest ternary (conditional operators) to create switch like statments.
-- A chain of || will return the first truthy value, reading left to right.
+- A chain of \|\| will return the first truthy value, reading left to right.
 - If no truthy values, the last value is returned. Can be used for short curcuit evaluation.
 - Chained && has a similar property, except it returns the first falsy value.
-- The precedence of && is higher than that of ||, and ! is higher than both.
+- The precedence of && is higher than that of \|\|, and ! is higher than both.
 - A double ! or !! can be used to convert values to Boolean, but I prefer Boolean(value).
 
 ## Day 27 - p5.js Logo Generator
