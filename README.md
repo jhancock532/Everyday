@@ -10,6 +10,7 @@ To read more of the inspiration that started this process and the inital strateg
 - [Week One Reflection](#week-one-reflection) 
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
+- [Week Four Reflection](#week-four-reflection)
 
 My favourite everyday project so far has been Day 14, Particle System II. See a live demo below.
 
@@ -22,7 +23,20 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 # The Everydays
 
-https://github.com/runemadsen/reactive-user-interfaces
+# Week Four Reflection
+
+My focus for the next month will be on React. I will be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects will be running on [glitch.com](glitch.com), any notes and draft code will probably still be stored on CodePen. I will release projects to Twitter as and when I feel they are ready, instead of having to do it everyday. The first month of this experiment is almost at an end!
+
+- **I'm happy with my JavaScript progress.** I'm learning a lot from [javascript.info](https://javascript.info/), even if it seems like fundamental stuff at the moment I'm learning many new things. I shall continue to go through this tutorial, writing down key learning points as I go. How busy I am with other work will effect how often I choose to follow this tutorial over creating my own code.
+- **You learn a lot from challenging yourself.** Putting principles into practice and trying new ideas is very important, perhaps the most important aspect underlying all of it is doing something that is outside of your comfort zone. I had no idea about getters and setters in ECMAScript before refactoring bars.js, but I googled it and learned while I coded. 
+- **There are a lot of cool people out there.** Attending meetups such as the Processing Community Day in London is very inspiring. There are people who have made careers out of the libraries I'm coding in, as well as people who have significantly contributed to the development of those libraries and the community around them. It's also reassuring to here people describe how they started coding ten or twenty years ago, and how their long term projects are several years old - I don't have to produce marvellous code in a fortnight! This gives me a bit more patience with myself.
+- **Consider the why behind what you code, not just the how.** In my p5.js experiments, I often get lost in the idea of making something that looks nice, or making something that is difficult, instead of considering why I am making it in the first place. In the real world justification is required for making design choices: something that I've learned first hand from the Innovation course at UoB. Why not bring some of my design practice into how I code? 
+- **I should develop with an IDE.** I've been coding in the CodePen editor for a long time now, but it's time to say goodbye.
+
+### Cool Resources
+- [ml5.js](https://ml5js.org/) - Machine learning for the web made easy.
+- [The Nature of Code](https://natureofcode.com/book/) - Processing meets reality. How to code simulations.
+- [Unit Testing with p5.js](https://p5js.org/learn/tdd.html) - A tutorial on unit testing and test driven development within p5.js. I think I should dedicate a weekend session to having a go at this, as TDD is quite big in industry.
 
 ## Day 28 - Learning JavaScript 6
 
@@ -71,7 +85,7 @@ Wow! So many cool people, so much cool stuff, and so many interesting ideas. I'm
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
-## Day 25 - Refactoring bars.js 1
+## Day 25 - Refactoring bars.js
 
 It's satisfying to finally put the principles I've learned into practice with an actual project. Working on this taught me a fair bit about getters and setters along the way as well. Refactoring takes a lot of time, now onto testing and documentation!
 
