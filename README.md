@@ -36,7 +36,12 @@ My focus for the next month will be on React. I will be following [this tutorial
 ### Cool Resources
 - [ml5.js](https://ml5js.org/) - Machine learning for the web made easy.
 - [The Nature of Code](https://natureofcode.com/book/) - Processing meets reality. How to code simulations.
-- [Unit Testing with p5.js](https://p5js.org/learn/tdd.html) - A tutorial on unit testing and test driven development within p5.js. I think I should dedicate a weekend session to having a go at this, as TDD is quite big in industry.
+- [Programming Design Systems](https://programmingdesignsystems.com/) - Programming. Design. Systems.
+
+### Project List 
+- [Unit Testing with p5.js](https://p5js.org/learn/tdd.html) : A tutorial on unit testing and test driven development within p5.js. I think I should dedicate a weekend session to having a go at this, as TDD is quite big in industry.
+- Personal Website : I think it's about time I created a simple personal website and got a custom URL for it. 
+- bars.js : Let's update the GitHub repository with the new bars.js code and write up testing & documentation for it.
 
 ## Day 28 - Learning JavaScript 6
 
