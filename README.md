@@ -1,18 +1,21 @@
 # Introduction
 Hello, I'm James Hancock, a computer science and innovation student studying at the University of Bristol. 
 
-This website is a list of all the daily web development projects I've completed since the 1st of January, 2019. The projects completed vary considerably in nature, from experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). I've been studying the fundamentals of JavaScript recently.
+This project was inspired by [Beeple](https://twitter.com/beeple), a visual artist who is one of the internet's most famous everyday practioners. After watching him give a talk on the subject ([see here](https://vimeo.com/125524216)) I decided that I would give it a go for a month, by creating a new [CodePen](https://codepen.io/jhancock532/#) pen every day.
 
-What you see here is not a portfolio of polished, final products, more of a long-term journey, a learning process filled with ups and downs. This website is part code, part blog, so be warned about rambling reflections.
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">I&#39;m doing a pen a day for the first month of 2019 - kicking things off, here is a <a href="https://twitter.com/hashtag/p5js?src=hash&amp;ref_src=twsrc%5Etfw">#p5js</a> and <a href="https://twitter.com/hashtag/datgui?src=hash&amp;ref_src=twsrc%5Etfw">#datgui</a> template, to get new projects started quicker. I&#39;ve added comments to make the code beginner friendly.  <a href="https://t.co/5WGlekntY4">https://t.co/5WGlekntY4</a> <a href="https://twitter.com/hashtag/codepen?src=hash&amp;ref_src=twsrc%5Etfw">#codepen</a> <a href="https://t.co/rbQG2GyJq8">pic.twitter.com/rbQG2GyJq8</a></p>&mdash; James Hancock (@jhancock532) <a href="https://twitter.com/jhancock532/status/1080047751356993536?ref_src=twsrc%5Etfw">1 January 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-To read more of the inspiration that started this process and the inital strategy I followed, [click here](#inspiration-and-strategy). Part of this strategy was performing weekly reflections on what I'd done that week. You can find a direct link to these reflections below.
+This website is a list of all of these pens I completed during January. The projects vary considerably, including experiments with [p5.js](https://p5js.org/), [Bootstrap 4](https://getbootstrap.com/), and [jQuery](https://jquery.com/). During the second half of the month, I narrowed my focus to learning the fundamentals of JavaScript in greater depth.
+
+At the end of each week in the month, I wrote a short reflective piece on what I'd learned that week, and what I'd do differently the next. These reflections can be found at the following links.
 
 - [Week One Reflection](#week-one-reflection) 
 - [Week Two Reflection](#week-two-reflection)
 - [Week Three Reflection](#week-three-reflection)
 - [Week Four Reflection](#week-four-reflection)
 
-My favourite everyday project so far has been Day 14, Particle System II. See a live demo below.
+My favourite everyday project from this month was Day 14, Particle System II. See a live demo below.
 
 <p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="MZZMVK" data-preview="true" style="height: 462px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Particle System Template II">
   <span>See the Pen <a href="https://codepen.io/jhancock532/pen/MZZMVK/">
@@ -40,7 +43,7 @@ Today I learned about [for and while loops](https://javascript.info/while-for) a
 
 # Week Four Reflection
 
-My focus for the next month will be on React. I will be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects will be running on [glitch.com](glitch.com), any notes and draft code will probably still be stored on CodePen. I will release projects to Twitter as and when I feel they are ready, instead of having to do it everyday. The first month of this experiment is almost at an end!
+My focus for the future will be on React. I will be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects will be running on [glitch.com](glitch.com), any notes and draft code will probably still be stored on CodePen. I will release projects to Twitter as and when I feel they are ready, instead of having to do it everyday. This experiment is almost at an end!
 
 - **I'm happy with my JavaScript progress.** I'm learning a lot from [javascript.info](https://javascript.info/), even if it seems like fundamental stuff at the moment I'm learning many new things. I shall continue to go through this tutorial, writing down key learning points as I go. How busy I am with other work will effect how often I choose to follow this tutorial over creating my own code.
 - **You learn a lot from challenging yourself.** Putting principles into practice and trying new ideas is very important, perhaps the most important aspect underlying all of it is doing something that is outside of your comfort zone. I had no idea about getters and setters in ECMAScript before refactoring bars.js, but I googled it and learned while I coded. 
@@ -381,16 +384,3 @@ A template which has all the basics of P5JS and dat.GUI set up for you, so you c
 
 <p data-height="500" data-theme-id="0" data-slug-hash="maqvax" data-default-tab="js,result" data-user="jhancock532" data-pen-title="P5JS & dat.GUI Template (Beginner)" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jhancock532/pen/maqvax/">P5JS & dat.GUI Template (Beginner)</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
-
-# Inspiration and Strategy
-This project was [inspired by Beeple](https://vimeo.com/125524216), he's pretty cool.
-
-*What is my definition of an everyday?*
-
-> A digital creative project, either able to stand on its own or a clear section of a boarder creative project, that has been completed in one day before midnight. The work is completed when this repo is updated with the code and a tweet is posted to my Twitter account, including a link to the code and imagery of the result.
-
-> An hour spent learning a framework or coding language, the key takeaways from which are neatly summurised into learning points. These learning points can then be taken and used to change development practice while coding digital creative projects.
-
-*How will I improve my skills through this project?*
-
-> I'll perform regular weekly reflections on the work I completed in the past week. These shall be focusing on what projects worked well and what didn't work so well. I'll also be looking at the skills I employed within the projects - do I think I've improved in these areas? How will I test my skills to see what I've learned? What skills am I currently lacking as a developer?
