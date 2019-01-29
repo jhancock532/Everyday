@@ -23,6 +23,21 @@ My favourite everyday project so far has been Day 14, Particle System II. See a 
 
 # The Everydays
 
+# Day 29 - Learning JavaScript 7
+
+Today I learned about [for and while loops](https://javascript.info/while-for) as well as [switch statements](https://javascript.info/switch). My notes can be [found here](https://codepen.io/jhancock532/pen/gqwgZL).
+
+### Key Learning Points
+- You don't need to use brackets for a single line for, if, or while statement.
+- If you define a variable in a for loop using var, it's accessible outside of the loop.
+- You can omit parts of the for loop deleration - for(;;) is an infinite loop.
+- Decreasing nesting improves code readability.
+- You can't use break or continue as part of a ? operator statement.
+- Breaks and continues only break from the inner loop, to break out of multiple loops you need to use loop labels.
+- If you ignore a break statement in a switch structure the code will continue on to run the next statement without any logical checks.
+- Both switches and cases can be arbitrary expressions.
+- The case switch structure uses strictly typed equality operations when comparing the argument to the case statements.
+
 # Week Four Reflection
 
 My focus for the next month will be on React. I will be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects will be running on [glitch.com](glitch.com), any notes and draft code will probably still be stored on CodePen. I will release projects to Twitter as and when I feel they are ready, instead of having to do it everyday. The first month of this experiment is almost at an end!
