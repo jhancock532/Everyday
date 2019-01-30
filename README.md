@@ -3,6 +3,7 @@ Hello, I'm James Hancock, a computer science and innovation student studying at 
 
 This project was inspired by [Beeple](https://twitter.com/beeple), a visual artist who is one of the internet's most famous everyday practioners. After watching him give a talk on the subject ([see here](https://vimeo.com/125524216)) I decided that I would give it a go for a month, by creating a new [CodePen](https://codepen.io/jhancock532/#) pen every day.
 
+
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">I&#39;m doing a pen a day for the first month of 2019 - kicking things off, here is a <a href="https://twitter.com/hashtag/p5js?src=hash&amp;ref_src=twsrc%5Etfw">#p5js</a> and <a href="https://twitter.com/hashtag/datgui?src=hash&amp;ref_src=twsrc%5Etfw">#datgui</a> template, to get new projects started quicker. I&#39;ve added comments to make the code beginner friendly.  <a href="https://t.co/5WGlekntY4">https://t.co/5WGlekntY4</a> <a href="https://twitter.com/hashtag/codepen?src=hash&amp;ref_src=twsrc%5Etfw">#codepen</a> <a href="https://t.co/rbQG2GyJq8">pic.twitter.com/rbQG2GyJq8</a></p>&mdash; James Hancock (@jhancock532) <a href="https://twitter.com/jhancock532/status/1080047751356993536?ref_src=twsrc%5Etfw">1 January 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -25,6 +26,17 @@ My favourite everyday project from this month was Day 14, Particle System II. Se
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # The Everydays
+
+# Day 30 - Portfolio Website I
+
+The journey is almost at an end. There is still a long way to go.
+
+<p class="codepen" data-height="500" data-theme-id="35659" data-default-tab="result" data-user="jhancock532" data-slug-hash="qgqgmr" data-preview="true" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Portfolio Website, Jan 2019 Part I">
+  <span>See the Pen <a href="https://codepen.io/jhancock532/pen/qgqgmr/">
+  Portfolio Website, Jan 2019 Part I</a> by James Hancock (<a href="https://codepen.io/jhancock532">@jhancock532</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 # Day 29 - Learning JavaScript 7
 
