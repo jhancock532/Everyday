@@ -1,4 +1,4 @@
 # Everyday
 One coding project completed everyday. A summary of all the projects can be found on [this repo's website](https://jhancock532.github.io/everydays/).
 
-The results can also be found on my [CodePen profile](https://codepen.io/jhancock532/#) and [Twitter account](https://twitter.com/jhancock532).
+The journey continues with [reflection](https://github.com/jhancock532/reflection), although I'm not updating it everyday, I'll continue with the learning process and reflective work when I find the time. 
