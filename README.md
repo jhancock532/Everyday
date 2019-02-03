@@ -24,11 +24,15 @@ My favourite everyday project from this month was Day 14, Particle System II. Se
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
+Although this project ended at the end of January, I'll be updating [reflection](https://jhancock532.github.io/reflection/) occasionally with my learning process from now on. It wouldn't be updated everyday, just when I find the time to learn. 
+
 # The Everydays
 
 ## Day 31 - Portfolio Website II
 
 We've reached the end of the month, and hence the end of this everyday project. I would love to keep on going with this, as I've really just got started with learning JavaScript. I will no longer be doing everyday code projects next month; I want to prioritise university studies and extracirricular commitments during term time. This doesn't mean that I'm going to stop learning web development, I'll keep doing a little bit every week, when the opportunity arises. 
+
+*See my further learning at [reflection](https://jhancock532.github.io/reflection/).*
 
 To celebrate the end of the project, I've released my personal website onto GitHub Pages. You can visit it at the following URL : [jhancock532.github.io](https://jhancock532.github.io/)
 
