@@ -24,8 +24,6 @@ My favourite everyday project from this month was Day 14, Particle System II. Se
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Although this project ended at the end of January, I'll be updating [reflection](https://jhancock532.github.io/reflection/) occasionally with my learning process from now on. It wouldn't be updated everyday, just when I find the time to learn. 
-
 # The Everydays
 
 ## Day 31 - Portfolio Website II
