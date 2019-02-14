@@ -30,8 +30,6 @@ My favourite everyday project from this month was Day 14, Particle System II. Se
 
 We've reached the end of the month, and hence the end of this everyday project. I would love to keep on going with this, as I've really just got started with learning JavaScript. I will no longer be doing everyday code projects next month; I want to prioritise university studies and extracirricular commitments during term time. This doesn't mean that I'm going to stop learning web development, I'll keep doing a little bit every week, when the opportunity arises. 
 
-*See my further learning at [reflection](https://jhancock532.github.io/reflection/).*
-
 To celebrate the end of the project, I've released my personal website onto GitHub Pages. You can visit it at the following URL : [jhancock532.github.io](https://jhancock532.github.io/)
 
 The repository is public, you can view the code on GitHub [here](https://github.com/jhancock532/jhancock532.github.io).
@@ -71,7 +69,7 @@ Today I learned about [for and while loops](https://javascript.info/while-for) a
 
 # Week Four Reflection
 
-My focus for the future will be on React. I will be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects will be running on [glitch.com](glitch.com), any notes and draft code will probably still be stored on CodePen. I will release projects to Twitter as and when I feel they are ready, instead of having to do it everyday. This experiment is almost at an end!
+**If I had more time...** My focus for the future would be on React. I would be following [this tutorial](https://github.com/runemadsen/reactive-user-interfaces) by Rune Madsen. After the 31st of January, my main projects would be running on [glitch.com](glitch.com), any notes and draft code would probably still be stored on CodePen.
 
 - **I'm happy with my JavaScript progress.** I'm learning a lot from [javascript.info](https://javascript.info/), even if it seems like fundamental stuff at the moment I'm learning many new things. I shall continue to go through this tutorial, writing down key learning points as I go. How busy I am with other work will effect how often I choose to follow this tutorial over creating my own code.
 - **You learn a lot from challenging yourself.** Putting principles into practice and trying new ideas is very important, perhaps the most important aspect underlying all of it is doing something that is outside of your comfort zone. I had no idea about getters and setters in ECMAScript before refactoring bars.js, but I googled it and learned while I coded. 
