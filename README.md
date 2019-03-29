@@ -1,5 +1,5 @@
 # Introduction
-Hello, I'm James Hancock, a computer science and innovation student studying at the University of Bristol. 
+Hello, I'm James Hancock, a computer science and innovation student studying at the University of Bristol. You can find my personal website at [jhancock532.github.io](https://jhancock532.github.io/).
 
 This project was inspired by [Beeple](https://twitter.com/beeple), a visual artist who is one of the internet's most famous everyday practioners. After watching him give a talk on the subject ([see here](https://vimeo.com/125524216)) I decided that I would give it a go for a month, by creating a new [CodePen](https://codepen.io/jhancock532/#) pen every day.
 
